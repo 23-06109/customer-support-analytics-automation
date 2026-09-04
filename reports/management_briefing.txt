@@ -1,0 +1,61 @@
+CUSTOMER SUPPORT MANAGEMENT BRIEFING
+=====================================
+
+EXECUTIVE SUMMARY
+
+The operation processed 500 tickets in the current dataset.
+
+There are currently 102 open tickets, of which
+57 have exceeded their SLA target.
+
+Closed-ticket SLA compliance is 76.38% and the
+average resolution time is 39.07 hours.
+
+
+KEY MANAGEMENT RISKS
+
+1. BACKLOG
+
+Team A currently has the largest overdue
+open-ticket backlog with 16 overdue cases.
+
+
+2. SLA PERFORMANCE
+
+Team A has the lowest closed-ticket SLA compliance
+at 71.31%.
+
+
+3. QUALITY PERFORMANCE
+
+Team E has the lowest QA pass rate at
+70.73%.
+
+
+4. CRITICAL EXCEPTIONS
+
+There are 5 Critical-priority open tickets that
+have already exceeded SLA.
+
+
+RECOMMENDED MANAGEMENT ACTIONS
+
+1. Prioritize all Critical overdue tickets for immediate review.
+
+2. Review the overdue backlog in Team A and
+identify capacity, workflow, or escalation bottlenecks.
+
+3. Investigate SLA performance in Team A.
+
+4. Review QA failures and coaching opportunities in
+Team E.
+
+5. Track SLA compliance, backlog, and QA pass rate together
+rather than evaluating teams using a single KPI.
+
+
+DATA GOVERNANCE NOTE
+
+All figures in this briefing are calculated directly from the
+PostgreSQL analytics database. The briefing does not calculate
+or invent KPI values independently.
