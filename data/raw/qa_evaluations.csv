@@ -1,0 +1,247 @@
+evaluation_id,ticket_id,agent_id,qa_score,defect_category,critical_error,passed_qa
+QA0001,TKT0396,AG050,83,Incomplete Resolution,False,True
+QA0002,TKT0075,AG042,86,Process Compliance,False,True
+QA0003,TKT0017,AG033,90,None,False,True
+QA0004,TKT0462,AG010,97,None,False,True
+QA0005,TKT0175,AG043,91,Documentation,False,True
+QA0006,TKT0157,AG021,90,None,False,True
+QA0007,TKT0144,AG042,96,None,False,True
+QA0008,TKT0090,AG002,84,Communication,False,True
+QA0009,TKT0459,AG027,56,Documentation,False,False
+QA0010,TKT0070,AG005,85,Documentation,False,True
+QA0011,TKT0421,AG023,98,None,False,True
+QA0012,TKT0497,AG041,99,Incomplete Resolution,False,True
+QA0013,TKT0342,AG005,89,Communication,False,True
+QA0014,TKT0061,AG043,100,None,False,True
+QA0015,TKT0369,AG004,100,None,False,True
+QA0016,TKT0267,AG015,94,None,False,True
+QA0017,TKT0023,AG029,99,None,False,True
+QA0018,TKT0022,AG014,95,None,False,True
+QA0019,TKT0065,AG034,98,Process Compliance,False,True
+QA0020,TKT0141,AG044,94,None,False,True
+QA0021,TKT0151,AG014,82,Incomplete Resolution,False,True
+QA0022,TKT0316,AG007,93,Incomplete Resolution,False,True
+QA0023,TKT0376,AG030,90,None,False,True
+QA0024,TKT0018,AG013,84,Communication,False,True
+QA0025,TKT0351,AG015,52,Incorrect Information,False,False
+QA0026,TKT0130,AG016,95,None,False,True
+QA0027,TKT0445,AG028,80,Process Compliance,False,True
+QA0028,TKT0402,AG012,88,Incorrect Information,False,True
+QA0029,TKT0438,AG015,92,Incomplete Resolution,False,True
+QA0030,TKT0488,AG009,74,Process Compliance,False,False
+QA0031,TKT0263,AG019,96,Incomplete Resolution,False,True
+QA0032,TKT0142,AG024,95,None,False,True
+QA0033,TKT0283,AG013,95,None,False,True
+QA0034,TKT0368,AG037,100,Documentation,False,True
+QA0035,TKT0177,AG021,92,None,False,True
+QA0036,TKT0004,AG006,95,Incomplete Resolution,False,True
+QA0037,TKT0102,AG019,93,Incomplete Resolution,False,True
+QA0038,TKT0436,AG015,98,None,False,True
+QA0039,TKT0485,AG044,89,Incomplete Resolution,False,True
+QA0040,TKT0212,AG012,98,None,False,True
+QA0041,TKT0457,AG039,83,Incorrect Information,False,True
+QA0042,TKT0099,AG050,89,Process Compliance,False,True
+QA0043,TKT0139,AG009,73,Documentation,False,False
+QA0044,TKT0210,AG041,100,None,False,True
+QA0045,TKT0491,AG026,82,Documentation,False,True
+QA0046,TKT0479,AG013,95,None,False,True
+QA0047,TKT0238,AG050,80,Process Compliance,False,True
+QA0048,TKT0067,AG036,86,Communication,False,True
+QA0049,TKT0224,AG008,86,Process Compliance,False,True
+QA0050,TKT0214,AG035,73,Documentation,False,False
+QA0051,TKT0378,AG004,57,Process Compliance,False,False
+QA0052,TKT0170,AG004,97,None,False,True
+QA0053,TKT0029,AG029,78,Documentation,False,False
+QA0054,TKT0289,AG035,97,None,False,True
+QA0055,TKT0337,AG020,84,Incomplete Resolution,False,True
+QA0056,TKT0081,AG026,97,None,False,True
+QA0057,TKT0237,AG037,98,None,False,True
+QA0058,TKT0056,AG005,93,None,False,True
+QA0059,TKT0345,AG044,62,Documentation,False,False
+QA0060,TKT0186,AG029,90,None,False,True
+QA0061,TKT0390,AG026,78,Incorrect Information,False,False
+QA0062,TKT0385,AG036,83,Communication,False,True
+QA0063,TKT0228,AG020,64,Documentation,False,False
+QA0064,TKT0360,AG027,96,None,False,True
+QA0065,TKT0127,AG049,97,None,False,True
+QA0066,TKT0051,AG015,76,Communication,False,False
+QA0067,TKT0033,AG019,81,Process Compliance,False,True
+QA0068,TKT0412,AG013,71,Incorrect Information,False,False
+QA0069,TKT0148,AG029,93,None,False,True
+QA0070,TKT0184,AG023,89,Incomplete Resolution,False,True
+QA0071,TKT0429,AG045,79,Incorrect Information,False,False
+QA0072,TKT0476,AG030,50,Documentation,False,False
+QA0073,TKT0069,AG022,86,Incorrect Information,False,True
+QA0074,TKT0442,AG011,79,Documentation,False,False
+QA0075,TKT0448,AG002,85,Process Compliance,False,True
+QA0076,TKT0286,AG038,70,Process Compliance,False,False
+QA0077,TKT0394,AG020,96,None,False,True
+QA0078,TKT0229,AG008,79,Communication,False,False
+QA0079,TKT0107,AG032,74,Process Compliance,False,False
+QA0080,TKT0233,AG041,87,Communication,False,True
+QA0081,TKT0222,AG016,95,None,False,True
+QA0082,TKT0136,AG019,85,Incomplete Resolution,False,True
+QA0083,TKT0171,AG032,98,None,False,True
+QA0084,TKT0052,AG022,88,Communication,False,True
+QA0085,TKT0380,AG045,97,None,False,True
+QA0086,TKT0112,AG003,89,Incomplete Resolution,False,True
+QA0087,TKT0336,AG022,88,Incomplete Resolution,False,True
+QA0088,TKT0495,AG022,84,Incomplete Resolution,False,True
+QA0089,TKT0401,AG027,91,None,False,True
+QA0090,TKT0291,AG044,59,Incorrect Information,True,False
+QA0091,TKT0410,AG041,82,Incorrect Information,False,True
+QA0092,TKT0173,AG001,94,Communication,False,True
+QA0093,TKT0349,AG029,87,Communication,False,True
+QA0094,TKT0460,AG007,55,Incomplete Resolution,False,False
+QA0095,TKT0204,AG003,81,Documentation,False,True
+QA0096,TKT0039,AG023,72,Incomplete Resolution,False,False
+QA0097,TKT0149,AG004,71,Documentation,False,False
+QA0098,TKT0482,AG022,99,Incomplete Resolution,False,True
+QA0099,TKT0197,AG049,89,Process Compliance,False,True
+QA0100,TKT0253,AG011,99,None,False,True
+QA0101,TKT0172,AG044,93,None,False,True
+QA0102,TKT0047,AG023,99,None,False,True
+QA0103,TKT0137,AG050,73,Documentation,False,False
+QA0104,TKT0354,AG034,83,Incorrect Information,False,True
+QA0105,TKT0404,AG048,94,None,False,True
+QA0106,TKT0375,AG003,84,Incomplete Resolution,False,True
+QA0107,TKT0313,AG014,84,Process Compliance,False,True
+QA0108,TKT0249,AG005,80,Process Compliance,False,True
+QA0109,TKT0288,AG024,68,Incomplete Resolution,False,False
+QA0110,TKT0092,AG020,64,Incorrect Information,False,False
+QA0111,TKT0437,AG045,96,None,False,True
+QA0112,TKT0493,AG020,100,None,False,True
+QA0113,TKT0158,AG025,86,Incomplete Resolution,False,True
+QA0114,TKT0470,AG033,71,Process Compliance,False,False
+QA0115,TKT0338,AG019,100,None,False,True
+QA0116,TKT0169,AG027,99,None,False,True
+QA0117,TKT0270,AG012,94,None,False,True
+QA0118,TKT0252,AG022,93,None,False,True
+QA0119,TKT0422,AG042,81,Incorrect Information,False,True
+QA0120,TKT0423,AG027,97,None,False,True
+QA0121,TKT0089,AG047,97,None,False,True
+QA0122,TKT0318,AG044,99,None,False,True
+QA0123,TKT0309,AG032,78,Incomplete Resolution,False,False
+QA0124,TKT0064,AG016,79,Communication,False,False
+QA0125,TKT0034,AG031,87,Documentation,False,True
+QA0126,TKT0074,AG030,56,Incorrect Information,False,False
+QA0127,TKT0098,AG037,86,Communication,False,True
+QA0128,TKT0455,AG037,96,Communication,False,True
+QA0129,TKT0451,AG037,81,Communication,False,True
+QA0130,TKT0045,AG028,90,None,False,True
+QA0131,TKT0243,AG016,85,Incomplete Resolution,False,True
+QA0132,TKT0241,AG014,88,Communication,False,True
+QA0133,TKT0294,AG016,98,None,False,True
+QA0134,TKT0331,AG023,63,Process Compliance,False,False
+QA0135,TKT0161,AG024,70,Incomplete Resolution,False,False
+QA0136,TKT0006,AG046,95,None,False,True
+QA0137,TKT0076,AG021,100,Incorrect Information,False,True
+QA0138,TKT0500,AG009,99,None,False,True
+QA0139,TKT0450,AG024,74,Communication,False,False
+QA0140,TKT0499,AG045,94,None,False,True
+QA0141,TKT0426,AG004,84,Incomplete Resolution,False,True
+QA0142,TKT0274,AG012,93,None,False,True
+QA0143,TKT0101,AG017,50,Communication,True,False
+QA0144,TKT0406,AG015,79,Incomplete Resolution,False,False
+QA0145,TKT0002,AG002,89,Documentation,False,True
+QA0146,TKT0358,AG036,94,None,False,True
+QA0147,TKT0314,AG043,52,Incomplete Resolution,False,False
+QA0148,TKT0117,AG032,72,Incomplete Resolution,False,False
+QA0149,TKT0317,AG026,98,Process Compliance,False,True
+QA0150,TKT0072,AG020,84,Process Compliance,False,True
+QA0151,TKT0188,AG034,92,None,False,True
+QA0152,TKT0468,AG037,84,Incomplete Resolution,False,True
+QA0153,TKT0346,AG029,86,Communication,False,True
+QA0154,TKT0235,AG019,60,Incorrect Information,False,False
+QA0155,TKT0104,AG008,100,None,False,True
+QA0156,TKT0387,AG032,90,Incorrect Information,False,True
+QA0157,TKT0299,AG031,86,Documentation,False,True
+QA0158,TKT0246,AG030,89,Communication,False,True
+QA0159,TKT0389,AG049,86,Incorrect Information,False,True
+QA0160,TKT0365,AG029,97,None,False,True
+QA0161,TKT0434,AG007,98,Communication,False,True
+QA0162,TKT0001,AG007,69,Process Compliance,False,False
+QA0163,TKT0189,AG041,93,None,False,True
+QA0164,TKT0370,AG049,93,None,False,True
+QA0165,TKT0391,AG035,54,Documentation,True,False
+QA0166,TKT0005,AG035,92,None,False,True
+QA0167,TKT0383,AG014,93,None,False,True
+QA0168,TKT0292,AG013,88,Incomplete Resolution,False,True
+QA0169,TKT0119,AG018,89,Documentation,False,True
+QA0170,TKT0276,AG016,88,Process Compliance,False,True
+QA0171,TKT0261,AG044,87,Communication,False,True
+QA0172,TKT0254,AG032,81,Process Compliance,False,True
+QA0173,TKT0315,AG035,84,Incomplete Resolution,False,True
+QA0174,TKT0079,AG037,89,Documentation,False,True
+QA0175,TKT0021,AG049,81,Incorrect Information,False,True
+QA0176,TKT0308,AG038,96,None,False,True
+QA0177,TKT0295,AG033,96,None,False,True
+QA0178,TKT0181,AG012,71,Process Compliance,False,False
+QA0179,TKT0027,AG047,81,Documentation,False,True
+QA0180,TKT0028,AG016,98,Incorrect Information,False,True
+QA0181,TKT0230,AG036,96,None,False,True
+QA0182,TKT0156,AG004,98,None,False,True
+QA0183,TKT0256,AG050,85,Communication,False,True
+QA0184,TKT0024,AG038,98,Incomplete Resolution,False,True
+QA0185,TKT0388,AG024,80,Incomplete Resolution,False,True
+QA0186,TKT0335,AG016,70,Documentation,False,False
+QA0187,TKT0242,AG026,86,Process Compliance,False,True
+QA0188,TKT0343,AG035,91,None,False,True
+QA0189,TKT0329,AG021,84,Process Compliance,False,True
+QA0190,TKT0206,AG016,82,Incomplete Resolution,False,True
+QA0191,TKT0153,AG001,97,None,False,True
+QA0192,TKT0496,AG014,98,None,False,True
+QA0193,TKT0058,AG044,99,None,False,True
+QA0194,TKT0086,AG021,99,None,False,True
+QA0195,TKT0307,AG024,92,None,False,True
+QA0196,TKT0191,AG026,82,Incorrect Information,False,True
+QA0197,TKT0371,AG041,98,None,False,True
+QA0198,TKT0352,AG029,77,Documentation,False,False
+QA0199,TKT0311,AG012,96,None,False,True
+QA0200,TKT0431,AG006,79,Incomplete Resolution,False,False
+QA0201,TKT0466,AG006,91,None,False,True
+QA0202,TKT0439,AG011,91,None,False,True
+QA0203,TKT0411,AG017,88,Incomplete Resolution,False,True
+QA0204,TKT0223,AG024,95,None,False,True
+QA0205,TKT0447,AG004,55,Communication,False,False
+QA0206,TKT0131,AG040,89,Documentation,False,True
+QA0207,TKT0209,AG005,95,None,False,True
+QA0208,TKT0384,AG038,94,None,False,True
+QA0209,TKT0124,AG038,97,None,False,True
+QA0210,TKT0374,AG022,81,Communication,False,True
+QA0211,TKT0167,AG002,64,Documentation,False,False
+QA0212,TKT0145,AG016,95,None,False,True
+QA0213,TKT0042,AG039,85,Process Compliance,False,True
+QA0214,TKT0432,AG013,87,Incorrect Information,False,True
+QA0215,TKT0339,AG008,95,None,False,True
+QA0216,TKT0381,AG006,99,None,False,True
+QA0217,TKT0111,AG043,74,Incomplete Resolution,False,False
+QA0218,TKT0433,AG010,91,None,False,True
+QA0219,TKT0330,AG009,86,Process Compliance,False,True
+QA0220,TKT0176,AG021,76,Documentation,False,False
+QA0221,TKT0392,AG035,91,None,False,True
+QA0222,TKT0324,AG025,93,None,False,True
+QA0223,TKT0347,AG031,71,Documentation,False,False
+QA0224,TKT0326,AG050,85,Incorrect Information,False,True
+QA0225,TKT0025,AG005,82,Process Compliance,False,True
+QA0226,TKT0398,AG011,85,Communication,False,True
+QA0227,TKT0373,AG005,59,Communication,False,False
+QA0228,TKT0481,AG017,85,Incomplete Resolution,False,True
+QA0229,TKT0399,AG003,63,Incorrect Information,False,False
+QA0230,TKT0280,AG031,70,Documentation,False,False
+QA0231,TKT0010,AG026,91,None,False,True
+QA0232,TKT0108,AG006,97,Incomplete Resolution,False,True
+QA0233,TKT0355,AG040,97,None,False,True
+QA0234,TKT0166,AG028,93,None,False,True
+QA0235,TKT0078,AG049,91,Incomplete Resolution,False,True
+QA0236,TKT0364,AG042,82,Process Compliance,False,True
+QA0237,TKT0251,AG024,84,Documentation,False,True
+QA0238,TKT0282,AG034,98,None,False,True
+QA0239,TKT0340,AG030,93,Process Compliance,False,True
+QA0240,TKT0260,AG025,89,Documentation,False,True
+QA0241,TKT0474,AG050,93,None,False,True
+QA0242,TKT0182,AG030,86,Incomplete Resolution,False,True
+QA0243,TKT0183,AG041,78,Documentation,False,False
+QA0244,TKT0357,AG037,98,None,False,True
+QA0245,TKT0080,AG046,70,Incomplete Resolution,False,False
+QA0246,TKT0486,AG024,93,None,False,True
