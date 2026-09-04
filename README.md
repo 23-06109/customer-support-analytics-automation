@@ -44,6 +44,23 @@ KPI & Exception Detection
         ↓
 Automated Excel Report
         ↓
+        ---
+
+## Report Preview
+
+### KPI Summary
+
+![KPI Summary](screenshots/kpi_summary.png)
+
+### Team Performance
+
+![Team Performance](screenshots/team_performance.png)
+
+### Prioritized Exception Register
+
+![Exception Register](screenshots/exception_register.png)
+
+---
 Evidence-Grounded Management Briefing
         ↓
 Optional Human-in-the-Loop AI Rewrite
