@@ -44,7 +44,12 @@ KPI & Exception Detection
         ↓
 Automated Excel Report
         ↓
-        ---
+Evidence-Grounded Management Briefing
+        ↓
+Optional Human-in-the-Loop AI Rewrite
+```
+
+---
 
 ## Report Preview
 
@@ -61,6 +66,3 @@ Automated Excel Report
 ![Exception Register](screenshots/exception_register.png)
 
 ---
-Evidence-Grounded Management Briefing
-        ↓
-Optional Human-in-the-Loop AI Rewrite
