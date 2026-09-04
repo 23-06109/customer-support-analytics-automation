@@ -1,39 +1,49 @@
 # Customer Support Analytics Automation
 
-A Python and SQL-based customer support analytics project that automates data validation, KPI reporting, SLA monitoring, exception detection, and management insights.
+An end-to-end **Python + PostgreSQL analytics automation project** that transforms raw customer-support data into validated operational insights, SLA monitoring, QA performance analysis, prioritized exceptions, automated Excel reporting, and an evidence-grounded management briefing.
+
+---
 
 ## Business Problem
 
-Customer support teams often work with data coming from multiple systems such as ticketing platforms, QA evaluations, and agent records. Combining and analyzing this information manually can be slow, inconsistent, and error-prone.
+Customer-support operations often rely on data coming from multiple sources such as:
 
-This project demonstrates how Python and SQL can automate the process from raw data to management-ready insights.
+- Ticketing systems
+- Agent records
+- QA evaluations
 
-## Project Objectives
+When these datasets are reviewed manually, reporting can become slow, inconsistent, and difficult to act on.
 
-- Automate data ingestion and validation
-- Clean and transform operational data using Python
-- Store structured data in a SQL database
-- Calculate customer support KPIs
-- Monitor SLA compliance
-- Detect quality and operational exceptions
-- Generate automated management reports
-- Produce evidence-grounded AI management summaries
+Management needs quick answers to questions such as:
 
-## Planned Tech Stack
+- How many tickets are currently open?
+- Which open cases are already overdue?
+- Are teams meeting SLA targets?
+- Which teams have quality issues?
+- Which cases require immediate management attention?
+- What actions should management prioritize?
 
-- Python
-- Pandas
-- SQL
-- SQLite
-- Matplotlib
-- OpenPyXL
-- Git
-- GitHub
+This project automates that workflow.
 
-## Planned Workflow
+---
 
-Raw Data → Python ETL → Data Validation → SQL Database → KPI Analysis → Exception Detection → Management Report → AI Briefing
+## Solution Overview
 
-## Status
+The solution uses Python and PostgreSQL to create an end-to-end analytics pipeline:
 
-🚧 Project in development
+```text
+Synthetic Operational Data
+        ↓
+Python Data Generation
+        ↓
+PostgreSQL Database
+        ↓
+SQL Analytics
+        ↓
+KPI & Exception Detection
+        ↓
+Automated Excel Report
+        ↓
+Evidence-Grounded Management Briefing
+        ↓
+Optional Human-in-the-Loop AI Rewrite
