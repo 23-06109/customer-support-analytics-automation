@@ -12,7 +12,6 @@ RAW_DATA_DIR = PROJECT_ROOT / "data" / "raw"
 agents_file = RAW_DATA_DIR / "agents.csv"
 tickets_file = RAW_DATA_DIR / "tickets.csv"
 
-# Fixed reporting date keeps the analysis reproducible
 REPORT_DATE = datetime(2026, 9, 1, 12, 0)
 
 
@@ -64,7 +63,7 @@ sla_targets = {
 
 tickets = []
 
-start_date = datetime(2026, 1, 1)
+historical_start = datetime(2026, 1, 1)
 
 
 for ticket_number in range(1, 501):
@@ -75,46 +74,92 @@ for ticket_number in range(1, 501):
         k=1
     )[0]
 
-    opened_at = start_date + timedelta(
-        days=random.randint(0, 242),
-        hours=random.randint(0, 23)
-    )
+    sla_hours = sla_targets[priority]
 
     status = random.choices(
         ["Closed", "Open"],
-        weights=[80, 20],
+        weights=[82, 18],
         k=1
     )[0]
 
-    sla_hours = sla_targets[priority]
-
     if status == "Closed":
 
-        # Most tickets resolve within SLA,
-        # while some deliberately become breaches.
+        # Historical closed tickets
+        opened_at = historical_start + timedelta(
+            days=random.randint(0, 230),
+            hours=random.randint(0, 23)
+        )
+
+        # About 75% resolve within SLA
         if random.random() < 0.75:
-            resolution_hours = random.randint(1, sla_hours)
+            resolution_hours = random.randint(
+                1,
+                sla_hours
+            )
         else:
             resolution_hours = random.randint(
                 sla_hours + 1,
                 sla_hours + 72
             )
 
-        closed_at = opened_at + timedelta(hours=resolution_hours)
+        closed_at = opened_at + timedelta(
+            hours=resolution_hours
+        )
 
         age_hours = resolution_hours
-        sla_breached = age_hours > sla_hours
+
+        sla_breached = (
+            resolution_hours > sla_hours
+        )
 
     else:
+
+        # Open backlog is kept recent and realistic
+        backlog_type = random.choices(
+            [
+                "On Track",
+                "Breached",
+                "Stale"
+            ],
+            weights=[
+                45,
+                40,
+                15
+            ],
+            k=1
+        )[0]
+
+        if backlog_type == "On Track":
+
+            age_hours = random.randint(
+                1,
+                max(1, sla_hours - 1)
+            )
+
+        elif backlog_type == "Breached":
+
+            age_hours = random.randint(
+                sla_hours + 1,
+                sla_hours + 48
+            )
+
+        else:
+
+            age_hours = random.randint(
+                sla_hours + 49,
+                sla_hours + 168
+            )
+
+        opened_at = REPORT_DATE - timedelta(
+            hours=age_hours
+        )
 
         closed_at = ""
         resolution_hours = ""
 
-        age_hours = int(
-            (REPORT_DATE - opened_at).total_seconds() / 3600
+        sla_breached = (
+            age_hours > sla_hours
         )
-
-        sla_breached = age_hours > sla_hours
 
     ticket = {
         "ticket_id": f"TKT{ticket_number:04d}",

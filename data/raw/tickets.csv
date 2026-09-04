@@ -1,501 +1,501 @@
 ticket_id,agent_id,category,channel,priority,status,opened_at,closed_at,sla_target_hours,age_hours,resolution_hours,sla_breached
-TKT0001,AG007,Refund Request,Email,Medium,Closed,2026-01-07 23:00,2026-01-09 23:00,48,48,48,False
-TKT0002,AG002,Refund Request,Email,Medium,Closed,2026-01-09 00:00,2026-01-10 15:00,48,39,39,False
-TKT0003,AG001,Technical Support,Phone,Medium,Closed,2026-06-29 17:00,2026-06-30 11:00,48,18,18,False
-TKT0004,AG006,Product Inquiry,Email,Medium,Closed,2026-03-13 04:00,2026-03-15 18:00,48,62,62,True
-TKT0005,AG035,Billing,Chat,Medium,Closed,2026-03-30 19:00,2026-04-01 01:00,48,30,30,False
-TKT0006,AG046,Billing,Email,Low,Closed,2026-03-17 20:00,2026-03-21 21:00,72,97,97,True
-TKT0007,AG015,Billing,Chat,Medium,Open,2026-07-17 09:00,,48,1107,,True
-TKT0008,AG045,Billing,Phone,Low,Closed,2026-06-12 11:00,2026-06-13 22:00,72,35,35,False
-TKT0009,AG041,Refund Request,Email,Medium,Closed,2026-05-17 23:00,2026-05-18 17:00,48,18,18,False
-TKT0010,AG026,Account Access,Email,Medium,Closed,2026-08-04 01:00,2026-08-04 22:00,48,21,21,False
-TKT0011,AG021,Technical Support,Phone,Low,Open,2026-08-30 18:00,,72,42,,False
-TKT0012,AG048,Refund Request,Phone,Medium,Closed,2026-08-15 20:00,2026-08-16 12:00,48,16,16,False
-TKT0013,AG026,Account Access,Email,Low,Open,2026-05-30 13:00,,72,2255,,True
-TKT0014,AG010,Technical Support,Phone,Critical,Closed,2026-02-05 16:00,2026-02-06 15:00,8,23,23,True
-TKT0015,AG017,Refund Request,Email,Medium,Closed,2026-01-17 12:00,2026-01-22 08:00,48,116,116,True
-TKT0016,AG049,Account Access,Phone,Medium,Open,2026-01-30 21:00,,48,5127,,True
-TKT0017,AG033,Technical Support,Phone,Low,Closed,2026-03-17 13:00,2026-03-18 23:00,72,34,34,False
-TKT0018,AG013,Technical Support,Chat,High,Closed,2026-08-11 20:00,2026-08-12 16:00,24,20,20,False
-TKT0019,AG039,Account Access,Chat,High,Open,2026-05-19 16:00,,24,2516,,True
-TKT0020,AG020,Technical Support,Email,Low,Open,2026-08-26 11:00,,72,145,,True
-TKT0021,AG049,Refund Request,Email,Low,Closed,2026-05-26 02:00,2026-05-26 11:00,72,9,9,False
-TKT0022,AG014,Refund Request,Phone,Low,Closed,2026-05-02 17:00,2026-05-05 00:00,72,55,55,False
-TKT0023,AG029,Refund Request,Chat,Medium,Closed,2026-07-02 09:00,2026-07-03 09:00,48,24,24,False
-TKT0024,AG038,Technical Support,Email,Low,Closed,2026-02-27 02:00,2026-02-28 08:00,72,30,30,False
-TKT0025,AG005,Refund Request,Email,Low,Closed,2026-06-11 01:00,2026-06-15 20:00,72,115,115,True
-TKT0026,AG016,Product Inquiry,Chat,Low,Closed,2026-05-05 06:00,2026-05-07 19:00,72,61,61,False
-TKT0027,AG047,Billing,Phone,Low,Closed,2026-01-25 21:00,2026-01-28 09:00,72,60,60,False
-TKT0028,AG016,Technical Support,Email,Medium,Closed,2026-06-15 03:00,2026-06-15 10:00,48,7,7,False
-TKT0029,AG029,Refund Request,Email,Medium,Closed,2026-02-05 13:00,2026-02-05 18:00,48,5,5,False
-TKT0030,AG049,Technical Support,Email,Low,Open,2026-05-19 00:00,,72,2532,,True
-TKT0031,AG004,Technical Support,Chat,Medium,Open,2026-05-04 06:00,,48,2886,,True
-TKT0032,AG030,Account Access,Chat,Low,Open,2026-04-10 08:00,,72,3460,,True
-TKT0033,AG019,Technical Support,Email,Medium,Closed,2026-07-07 17:00,2026-07-08 06:00,48,13,13,False
-TKT0034,AG031,Refund Request,Phone,Medium,Closed,2026-05-19 01:00,2026-05-20 15:00,48,38,38,False
-TKT0035,AG005,Refund Request,Email,Low,Open,2026-05-11 02:00,,72,2722,,True
-TKT0036,AG038,Refund Request,Email,Medium,Closed,2026-03-02 12:00,2026-03-05 20:00,48,80,80,True
-TKT0037,AG014,Account Access,Email,Medium,Closed,2026-04-18 21:00,2026-04-19 14:00,48,17,17,False
-TKT0038,AG001,Product Inquiry,Phone,Low,Closed,2026-02-03 21:00,2026-02-04 07:00,72,10,10,False
-TKT0039,AG023,Billing,Email,Critical,Closed,2026-01-26 02:00,2026-01-26 05:00,8,3,3,False
-TKT0040,AG046,Account Access,Phone,Medium,Open,2026-02-10 14:00,,48,4870,,True
-TKT0041,AG043,Billing,Email,Critical,Closed,2026-07-26 20:00,2026-07-27 01:00,8,5,5,False
-TKT0042,AG039,Technical Support,Phone,Low,Closed,2026-08-16 03:00,2026-08-17 16:00,72,37,37,False
-TKT0043,AG033,Product Inquiry,Chat,Low,Open,2026-06-25 20:00,,72,1624,,True
-TKT0044,AG003,Billing,Chat,High,Closed,2026-08-05 01:00,2026-08-05 10:00,24,9,9,False
-TKT0045,AG028,Refund Request,Email,High,Closed,2026-06-13 08:00,2026-06-14 07:00,24,23,23,False
-TKT0046,AG035,Billing,Chat,Low,Open,2026-08-30 22:00,,72,38,,False
-TKT0047,AG023,Technical Support,Phone,Medium,Closed,2026-02-07 13:00,2026-02-07 16:00,48,3,3,False
-TKT0048,AG040,Technical Support,Email,Low,Closed,2026-01-27 11:00,2026-02-01 16:00,72,125,125,True
-TKT0049,AG002,Technical Support,Phone,High,Open,2026-07-24 05:00,,24,943,,True
-TKT0050,AG048,Technical Support,Chat,High,Open,2026-07-20 13:00,,24,1031,,True
-TKT0051,AG015,Technical Support,Chat,Low,Closed,2026-06-29 03:00,2026-07-01 16:00,72,61,61,False
-TKT0052,AG022,Account Access,Email,Low,Closed,2026-07-30 07:00,2026-08-01 11:00,72,52,52,False
-TKT0053,AG002,Billing,Chat,Critical,Closed,2026-03-13 11:00,2026-03-13 17:00,8,6,6,False
-TKT0054,AG028,Refund Request,Phone,Low,Closed,2026-03-09 01:00,2026-03-10 18:00,72,41,41,False
-TKT0055,AG001,Refund Request,Phone,Low,Closed,2026-08-19 18:00,2026-08-22 02:00,72,56,56,False
-TKT0056,AG005,Account Access,Phone,Medium,Closed,2026-08-29 23:00,2026-08-31 03:00,48,28,28,False
-TKT0057,AG043,Product Inquiry,Chat,Low,Closed,2026-08-06 03:00,2026-08-07 19:00,72,40,40,False
-TKT0058,AG044,Technical Support,Phone,Medium,Closed,2026-03-17 17:00,2026-03-18 18:00,48,25,25,False
-TKT0059,AG020,Account Access,Email,Medium,Open,2026-04-14 17:00,,48,3355,,True
-TKT0060,AG044,Technical Support,Phone,Medium,Closed,2026-05-29 19:00,2026-05-31 00:00,48,29,29,False
-TKT0061,AG043,Refund Request,Chat,Medium,Closed,2026-08-19 23:00,2026-08-21 08:00,48,33,33,False
-TKT0062,AG010,Billing,Email,Low,Closed,2026-07-12 07:00,2026-07-13 09:00,72,26,26,False
-TKT0063,AG005,Product Inquiry,Chat,Low,Open,2026-05-02 19:00,,72,2921,,True
-TKT0064,AG016,Technical Support,Phone,High,Closed,2026-05-28 06:00,2026-05-28 19:00,24,13,13,False
-TKT0065,AG034,Product Inquiry,Email,Medium,Closed,2026-08-17 03:00,2026-08-19 00:00,48,45,45,False
-TKT0066,AG036,Refund Request,Chat,Medium,Closed,2026-08-23 03:00,2026-08-27 23:00,48,116,116,True
-TKT0067,AG036,Product Inquiry,Email,Critical,Closed,2026-08-17 14:00,2026-08-17 21:00,8,7,7,False
-TKT0068,AG018,Refund Request,Chat,Medium,Closed,2026-05-02 14:00,2026-05-04 07:00,48,41,41,False
-TKT0069,AG022,Account Access,Phone,Medium,Closed,2026-03-12 14:00,2026-03-13 08:00,48,18,18,False
-TKT0070,AG005,Product Inquiry,Chat,Low,Closed,2026-02-08 07:00,2026-02-09 11:00,72,28,28,False
-TKT0071,AG050,Refund Request,Phone,Low,Closed,2026-04-30 13:00,2026-05-05 15:00,72,122,122,True
-TKT0072,AG020,Product Inquiry,Chat,Low,Closed,2026-08-14 18:00,2026-08-16 16:00,72,46,46,False
-TKT0073,AG015,Account Access,Chat,Medium,Closed,2026-07-08 17:00,2026-07-13 08:00,48,111,111,True
-TKT0074,AG030,Technical Support,Phone,Medium,Closed,2026-04-10 10:00,2026-04-13 08:00,48,70,70,True
-TKT0075,AG042,Product Inquiry,Email,Medium,Closed,2026-08-21 12:00,2026-08-21 18:00,48,6,6,False
-TKT0076,AG021,Account Access,Chat,High,Closed,2026-02-16 01:00,2026-02-16 16:00,24,15,15,False
-TKT0077,AG048,Refund Request,Email,Low,Closed,2026-08-01 13:00,2026-08-01 16:00,72,3,3,False
-TKT0078,AG049,Billing,Email,Critical,Closed,2026-03-31 07:00,2026-03-31 21:00,8,14,14,True
-TKT0079,AG037,Technical Support,Chat,Low,Closed,2026-01-06 19:00,2026-01-07 10:00,72,15,15,False
-TKT0080,AG046,Billing,Email,Medium,Closed,2026-07-16 11:00,2026-07-18 11:00,48,48,48,False
-TKT0081,AG026,Technical Support,Email,Critical,Closed,2026-01-28 18:00,2026-01-29 01:00,8,7,7,False
-TKT0082,AG044,Refund Request,Email,Medium,Closed,2026-08-01 20:00,2026-08-02 16:00,48,20,20,False
-TKT0083,AG005,Refund Request,Phone,High,Closed,2026-05-25 01:00,2026-05-25 13:00,24,12,12,False
-TKT0084,AG007,Product Inquiry,Chat,Low,Open,2026-08-06 13:00,,72,623,,True
-TKT0085,AG034,Account Access,Phone,Medium,Closed,2026-08-01 14:00,2026-08-03 13:00,48,47,47,False
-TKT0086,AG021,Technical Support,Email,High,Closed,2026-05-18 15:00,2026-05-21 02:00,24,59,59,True
-TKT0087,AG022,Billing,Chat,Low,Closed,2026-04-26 07:00,2026-04-28 08:00,72,49,49,False
-TKT0088,AG018,Refund Request,Phone,High,Closed,2026-02-16 15:00,2026-02-19 11:00,24,68,68,True
-TKT0089,AG047,Product Inquiry,Chat,High,Closed,2026-05-23 00:00,2026-05-23 08:00,24,8,8,False
-TKT0090,AG002,Billing,Chat,Medium,Closed,2026-03-03 22:00,2026-03-05 03:00,48,29,29,False
-TKT0091,AG036,Refund Request,Chat,Low,Closed,2026-06-27 07:00,2026-06-29 20:00,72,61,61,False
-TKT0092,AG020,Account Access,Email,Medium,Closed,2026-07-10 17:00,2026-07-11 11:00,48,18,18,False
-TKT0093,AG013,Technical Support,Phone,Low,Closed,2026-02-19 10:00,2026-02-20 10:00,72,24,24,False
-TKT0094,AG034,Refund Request,Chat,Medium,Open,2026-07-05 18:00,,48,1386,,True
-TKT0095,AG001,Refund Request,Email,Critical,Closed,2026-08-02 06:00,2026-08-02 11:00,8,5,5,False
-TKT0096,AG007,Billing,Phone,Low,Closed,2026-01-14 17:00,2026-01-20 08:00,72,135,135,True
-TKT0097,AG031,Billing,Email,Low,Closed,2026-05-03 14:00,2026-05-07 23:00,72,105,105,True
-TKT0098,AG037,Account Access,Email,Medium,Closed,2026-01-19 18:00,2026-01-20 04:00,48,10,10,False
-TKT0099,AG050,Refund Request,Chat,Critical,Closed,2026-01-31 17:00,2026-01-31 21:00,8,4,4,False
-TKT0100,AG028,Account Access,Phone,Medium,Open,2026-04-24 09:00,,48,3123,,True
-TKT0101,AG017,Billing,Email,Medium,Closed,2026-06-06 23:00,2026-06-10 03:00,48,76,76,True
-TKT0102,AG019,Billing,Email,Low,Closed,2026-05-22 02:00,2026-05-24 15:00,72,61,61,False
-TKT0103,AG005,Technical Support,Chat,Low,Open,2026-03-14 22:00,,72,4094,,True
-TKT0104,AG008,Refund Request,Email,High,Closed,2026-06-10 18:00,2026-06-14 01:00,24,79,79,True
-TKT0105,AG005,Billing,Email,Medium,Open,2026-08-21 08:00,,48,268,,True
-TKT0106,AG019,Product Inquiry,Email,High,Open,2026-06-02 23:00,,24,2173,,True
-TKT0107,AG032,Product Inquiry,Email,Medium,Closed,2026-03-19 22:00,2026-03-21 09:00,48,35,35,False
-TKT0108,AG006,Technical Support,Phone,Medium,Closed,2026-08-16 13:00,2026-08-16 15:00,48,2,2,False
-TKT0109,AG049,Account Access,Phone,High,Open,2026-05-28 18:00,,24,2298,,True
-TKT0110,AG012,Refund Request,Chat,Low,Closed,2026-07-13 05:00,2026-07-14 17:00,72,36,36,False
-TKT0111,AG043,Billing,Email,Medium,Closed,2026-05-06 02:00,2026-05-06 23:00,48,21,21,False
-TKT0112,AG003,Product Inquiry,Email,Low,Closed,2026-06-27 15:00,2026-07-03 14:00,72,143,143,True
-TKT0113,AG026,Refund Request,Email,Low,Open,2026-03-24 03:00,,72,3873,,True
-TKT0114,AG040,Product Inquiry,Phone,Medium,Closed,2026-05-19 14:00,2026-05-20 14:00,48,24,24,False
-TKT0115,AG029,Product Inquiry,Email,Medium,Closed,2026-01-14 06:00,2026-01-15 01:00,48,19,19,False
-TKT0116,AG036,Billing,Phone,Low,Closed,2026-06-11 19:00,2026-06-13 11:00,72,40,40,False
-TKT0117,AG032,Account Access,Phone,Medium,Closed,2026-02-27 03:00,2026-02-27 13:00,48,10,10,False
-TKT0118,AG016,Product Inquiry,Phone,Medium,Open,2026-04-17 15:00,,48,3285,,True
-TKT0119,AG018,Product Inquiry,Chat,Low,Closed,2026-02-18 19:00,2026-02-22 04:00,72,81,81,True
-TKT0120,AG019,Account Access,Phone,High,Open,2026-05-10 08:00,,24,2740,,True
-TKT0121,AG029,Refund Request,Chat,Medium,Open,2026-06-18 15:00,,48,1797,,True
-TKT0122,AG045,Technical Support,Phone,Low,Closed,2026-05-22 17:00,2026-05-26 18:00,72,97,97,True
-TKT0123,AG025,Product Inquiry,Phone,Medium,Closed,2026-08-08 13:00,2026-08-10 11:00,48,46,46,False
-TKT0124,AG038,Account Access,Email,High,Closed,2026-06-16 04:00,2026-06-16 21:00,24,17,17,False
-TKT0125,AG010,Product Inquiry,Phone,High,Closed,2026-04-23 03:00,2026-04-24 03:00,24,24,24,False
-TKT0126,AG042,Billing,Chat,Critical,Closed,2026-01-20 15:00,2026-01-20 22:00,8,7,7,False
-TKT0127,AG049,Product Inquiry,Phone,High,Closed,2026-08-08 17:00,2026-08-09 16:00,24,23,23,False
-TKT0128,AG048,Billing,Chat,Low,Closed,2026-01-18 07:00,2026-01-22 13:00,72,102,102,True
-TKT0129,AG045,Account Access,Email,Critical,Closed,2026-07-14 20:00,2026-07-14 23:00,8,3,3,False
-TKT0130,AG016,Refund Request,Chat,Low,Closed,2026-07-23 01:00,2026-07-23 20:00,72,19,19,False
-TKT0131,AG040,Technical Support,Chat,Medium,Closed,2026-07-22 05:00,2026-07-23 06:00,48,25,25,False
-TKT0132,AG043,Billing,Chat,High,Closed,2026-02-06 07:00,2026-02-06 16:00,24,9,9,False
-TKT0133,AG038,Account Access,Phone,High,Closed,2026-06-23 17:00,2026-06-24 05:00,24,12,12,False
-TKT0134,AG031,Billing,Email,Critical,Closed,2026-06-26 08:00,2026-06-26 15:00,8,7,7,False
-TKT0135,AG043,Product Inquiry,Chat,Medium,Closed,2026-04-02 18:00,2026-04-02 20:00,48,2,2,False
-TKT0136,AG019,Technical Support,Phone,Low,Closed,2026-08-10 21:00,2026-08-16 13:00,72,136,136,True
-TKT0137,AG050,Technical Support,Phone,High,Closed,2026-02-26 20:00,2026-02-27 20:00,24,24,24,False
-TKT0138,AG038,Account Access,Phone,Low,Closed,2026-06-10 20:00,2026-06-14 01:00,72,77,77,True
-TKT0139,AG009,Refund Request,Chat,Low,Closed,2026-08-21 09:00,2026-08-22 11:00,72,26,26,False
-TKT0140,AG017,Product Inquiry,Chat,Medium,Open,2026-08-22 08:00,,48,244,,True
-TKT0141,AG044,Product Inquiry,Phone,Medium,Closed,2026-03-28 03:00,2026-03-28 18:00,48,15,15,False
-TKT0142,AG024,Account Access,Phone,Medium,Closed,2026-07-22 12:00,2026-07-23 18:00,48,30,30,False
-TKT0143,AG040,Refund Request,Chat,Medium,Closed,2026-06-13 11:00,2026-06-13 13:00,48,2,2,False
-TKT0144,AG042,Product Inquiry,Email,High,Closed,2026-02-26 20:00,2026-03-01 11:00,24,63,63,True
-TKT0145,AG016,Refund Request,Email,Low,Closed,2026-08-31 01:00,2026-08-31 14:00,72,13,13,False
-TKT0146,AG045,Refund Request,Chat,Medium,Open,2026-04-05 21:00,,48,3567,,True
-TKT0147,AG042,Billing,Chat,Medium,Open,2026-07-06 04:00,,48,1376,,True
-TKT0148,AG029,Technical Support,Chat,Medium,Closed,2026-08-29 08:00,2026-08-30 13:00,48,29,29,False
-TKT0149,AG004,Product Inquiry,Chat,Low,Closed,2026-06-25 11:00,2026-06-30 09:00,72,118,118,True
-TKT0150,AG004,Account Access,Email,Low,Closed,2026-02-01 14:00,2026-02-01 17:00,72,3,3,False
-TKT0151,AG014,Refund Request,Email,Critical,Closed,2026-07-21 18:00,2026-07-25 01:00,8,79,79,True
-TKT0152,AG018,Technical Support,Email,High,Closed,2026-03-01 10:00,2026-03-02 11:00,24,25,25,True
-TKT0153,AG001,Account Access,Email,Medium,Closed,2026-07-24 05:00,2026-07-26 22:00,48,65,65,True
-TKT0154,AG034,Billing,Phone,Medium,Closed,2026-01-05 05:00,2026-01-06 08:00,48,27,27,False
-TKT0155,AG015,Refund Request,Email,Low,Closed,2026-04-25 11:00,2026-04-28 04:00,72,65,65,False
-TKT0156,AG004,Product Inquiry,Chat,Medium,Closed,2026-08-21 21:00,2026-08-21 23:00,48,2,2,False
-TKT0157,AG021,Refund Request,Email,Medium,Closed,2026-01-28 15:00,2026-01-28 21:00,48,6,6,False
-TKT0158,AG025,Refund Request,Phone,Low,Closed,2026-03-12 19:00,2026-03-14 13:00,72,42,42,False
-TKT0159,AG042,Refund Request,Phone,Low,Closed,2026-05-10 19:00,2026-05-14 10:00,72,87,87,True
-TKT0160,AG027,Account Access,Chat,High,Open,2026-04-21 14:00,,24,3190,,True
-TKT0161,AG024,Technical Support,Phone,Medium,Closed,2026-07-06 03:00,2026-07-06 20:00,48,17,17,False
-TKT0162,AG006,Product Inquiry,Email,High,Open,2026-01-18 02:00,,24,5434,,True
-TKT0163,AG036,Account Access,Phone,Medium,Closed,2026-04-06 04:00,2026-04-07 16:00,48,36,36,False
-TKT0164,AG028,Billing,Chat,Low,Open,2026-04-01 21:00,,72,3663,,True
-TKT0165,AG031,Technical Support,Email,Medium,Closed,2026-04-01 03:00,2026-04-02 22:00,48,43,43,False
-TKT0166,AG028,Refund Request,Phone,Medium,Closed,2026-05-23 11:00,2026-05-24 02:00,48,15,15,False
-TKT0167,AG002,Technical Support,Chat,Medium,Closed,2026-06-14 17:00,2026-06-18 04:00,48,83,83,True
-TKT0168,AG037,Product Inquiry,Email,Medium,Closed,2026-03-21 10:00,2026-03-21 20:00,48,10,10,False
-TKT0169,AG027,Product Inquiry,Chat,Low,Closed,2026-06-12 00:00,2026-06-14 01:00,72,49,49,False
-TKT0170,AG004,Technical Support,Email,Low,Closed,2026-03-21 23:00,2026-03-25 10:00,72,83,83,True
-TKT0171,AG032,Refund Request,Chat,High,Closed,2026-01-13 21:00,2026-01-14 11:00,24,14,14,False
-TKT0172,AG044,Refund Request,Chat,Medium,Closed,2026-02-25 16:00,2026-02-26 11:00,48,19,19,False
-TKT0173,AG001,Technical Support,Chat,Medium,Closed,2026-03-20 01:00,2026-03-22 09:00,48,56,56,True
-TKT0174,AG001,Product Inquiry,Phone,High,Closed,2026-07-16 04:00,2026-07-16 08:00,24,4,4,False
-TKT0175,AG043,Account Access,Email,Medium,Closed,2026-02-03 12:00,2026-02-05 00:00,48,36,36,False
-TKT0176,AG021,Refund Request,Chat,Medium,Closed,2026-07-09 01:00,2026-07-09 06:00,48,5,5,False
-TKT0177,AG021,Technical Support,Phone,Medium,Closed,2026-07-01 20:00,2026-07-01 22:00,48,2,2,False
-TKT0178,AG028,Refund Request,Chat,Medium,Closed,2026-06-26 11:00,2026-06-29 19:00,48,80,80,True
-TKT0179,AG005,Refund Request,Phone,Medium,Closed,2026-04-12 09:00,2026-04-12 20:00,48,11,11,False
-TKT0180,AG023,Account Access,Phone,Low,Open,2026-05-11 06:00,,72,2718,,True
-TKT0181,AG012,Refund Request,Email,Critical,Closed,2026-06-15 04:00,2026-06-15 08:00,8,4,4,False
-TKT0182,AG030,Refund Request,Phone,High,Closed,2026-06-17 02:00,2026-06-20 18:00,24,88,88,True
-TKT0183,AG041,Account Access,Email,Medium,Closed,2026-08-25 18:00,2026-08-29 12:00,48,90,90,True
-TKT0184,AG023,Refund Request,Email,Medium,Closed,2026-05-01 14:00,2026-05-03 22:00,48,56,56,True
-TKT0185,AG042,Billing,Phone,Low,Closed,2026-04-26 01:00,2026-04-29 11:00,72,82,82,True
-TKT0186,AG029,Refund Request,Phone,Medium,Closed,2026-04-09 14:00,2026-04-11 20:00,48,54,54,True
-TKT0187,AG007,Account Access,Phone,Low,Closed,2026-06-04 15:00,2026-06-10 01:00,72,130,130,True
-TKT0188,AG034,Refund Request,Phone,Low,Closed,2026-06-15 05:00,2026-06-17 14:00,72,57,57,False
-TKT0189,AG041,Account Access,Email,Low,Closed,2026-04-06 09:00,2026-04-09 16:00,72,79,79,True
-TKT0190,AG022,Billing,Phone,Low,Closed,2026-05-23 21:00,2026-05-24 17:00,72,20,20,False
-TKT0191,AG026,Technical Support,Phone,Medium,Closed,2026-08-23 11:00,2026-08-25 06:00,48,43,43,False
-TKT0192,AG009,Refund Request,Email,Medium,Closed,2026-01-22 09:00,2026-01-23 07:00,48,22,22,False
-TKT0193,AG014,Account Access,Chat,Medium,Closed,2026-04-19 16:00,2026-04-20 04:00,48,12,12,False
-TKT0194,AG033,Refund Request,Phone,Low,Closed,2026-02-05 04:00,2026-02-08 17:00,72,85,85,True
-TKT0195,AG039,Product Inquiry,Email,High,Closed,2026-01-10 21:00,2026-01-12 14:00,24,41,41,True
-TKT0196,AG047,Product Inquiry,Email,Low,Closed,2026-08-01 22:00,2026-08-05 20:00,72,94,94,True
-TKT0197,AG049,Product Inquiry,Email,Medium,Closed,2026-06-23 23:00,2026-06-24 18:00,48,19,19,False
-TKT0198,AG013,Account Access,Phone,Medium,Open,2026-03-21 15:00,,48,3933,,True
-TKT0199,AG034,Product Inquiry,Email,High,Closed,2026-04-23 14:00,2026-04-27 07:00,24,89,89,True
-TKT0200,AG031,Account Access,Phone,High,Closed,2026-07-25 19:00,2026-07-26 16:00,24,21,21,False
-TKT0201,AG019,Billing,Email,High,Open,2026-07-02 16:00,,24,1460,,True
-TKT0202,AG029,Account Access,Email,Low,Closed,2026-08-20 16:00,2026-08-21 21:00,72,29,29,False
-TKT0203,AG024,Technical Support,Email,Medium,Closed,2026-04-12 16:00,2026-04-12 22:00,48,6,6,False
-TKT0204,AG003,Account Access,Chat,Low,Closed,2026-01-26 22:00,2026-01-30 16:00,72,90,90,True
-TKT0205,AG002,Account Access,Email,Medium,Closed,2026-02-05 22:00,2026-02-06 04:00,48,6,6,False
-TKT0206,AG016,Account Access,Email,High,Closed,2026-05-21 23:00,2026-05-22 09:00,24,10,10,False
-TKT0207,AG032,Refund Request,Phone,Low,Closed,2026-04-18 20:00,2026-04-19 11:00,72,15,15,False
-TKT0208,AG001,Refund Request,Chat,Low,Closed,2026-05-12 18:00,2026-05-15 01:00,72,55,55,False
-TKT0209,AG005,Refund Request,Phone,Low,Closed,2026-04-17 05:00,2026-04-19 04:00,72,47,47,False
-TKT0210,AG041,Product Inquiry,Chat,Medium,Closed,2026-05-10 17:00,2026-05-12 23:00,48,54,54,True
-TKT0211,AG050,Refund Request,Phone,Low,Closed,2026-01-05 11:00,2026-01-06 01:00,72,14,14,False
-TKT0212,AG012,Product Inquiry,Phone,High,Closed,2026-02-04 01:00,2026-02-04 22:00,24,21,21,False
-TKT0213,AG003,Account Access,Email,Medium,Closed,2026-02-16 04:00,2026-02-20 15:00,48,107,107,True
-TKT0214,AG035,Product Inquiry,Chat,Low,Closed,2026-02-21 01:00,2026-02-23 04:00,72,51,51,False
-TKT0215,AG042,Account Access,Chat,Low,Closed,2026-06-15 06:00,2026-06-18 13:00,72,79,79,True
-TKT0216,AG048,Product Inquiry,Chat,Low,Open,2026-04-05 13:00,,72,3575,,True
-TKT0217,AG018,Billing,Phone,Low,Closed,2026-02-17 15:00,2026-02-20 10:00,72,67,67,False
-TKT0218,AG012,Refund Request,Chat,Medium,Open,2026-04-21 19:00,,48,3185,,True
-TKT0219,AG011,Product Inquiry,Chat,Low,Closed,2026-01-21 10:00,2026-01-23 17:00,72,55,55,False
-TKT0220,AG004,Billing,Phone,Medium,Closed,2026-07-06 11:00,2026-07-08 04:00,48,41,41,False
-TKT0221,AG044,Technical Support,Email,Medium,Open,2026-04-04 16:00,,48,3596,,True
-TKT0222,AG016,Account Access,Chat,Low,Closed,2026-06-05 21:00,2026-06-06 06:00,72,9,9,False
-TKT0223,AG024,Product Inquiry,Email,Medium,Closed,2026-05-26 01:00,2026-05-27 01:00,48,24,24,False
-TKT0224,AG008,Billing,Phone,Medium,Closed,2026-05-16 11:00,2026-05-17 03:00,48,16,16,False
-TKT0225,AG008,Account Access,Chat,Low,Open,2026-05-13 12:00,,72,2664,,True
-TKT0226,AG013,Billing,Email,Medium,Closed,2026-02-24 19:00,2026-03-01 10:00,48,111,111,True
-TKT0227,AG029,Billing,Phone,High,Open,2026-04-26 05:00,,24,3079,,True
-TKT0228,AG020,Technical Support,Phone,Critical,Closed,2026-03-23 21:00,2026-03-24 02:00,8,5,5,False
-TKT0229,AG008,Technical Support,Email,Medium,Closed,2026-06-29 20:00,2026-06-30 11:00,48,15,15,False
-TKT0230,AG036,Technical Support,Phone,Low,Closed,2026-05-07 00:00,2026-05-09 12:00,72,60,60,False
-TKT0231,AG034,Product Inquiry,Chat,High,Closed,2026-01-17 09:00,2026-01-18 01:00,24,16,16,False
-TKT0232,AG042,Billing,Chat,High,Open,2026-01-19 04:00,,24,5408,,True
-TKT0233,AG041,Refund Request,Email,Medium,Closed,2026-05-13 11:00,2026-05-18 10:00,48,119,119,True
-TKT0234,AG034,Technical Support,Chat,High,Closed,2026-02-03 13:00,2026-02-05 05:00,24,40,40,True
-TKT0235,AG019,Billing,Chat,Low,Closed,2026-03-24 22:00,2026-03-30 17:00,72,139,139,True
-TKT0236,AG006,Refund Request,Phone,Low,Closed,2026-05-22 08:00,2026-05-25 05:00,72,69,69,False
-TKT0237,AG037,Billing,Email,Low,Closed,2026-08-30 18:00,2026-09-01 14:00,72,44,44,False
-TKT0238,AG050,Refund Request,Chat,Low,Closed,2026-08-31 20:00,2026-09-01 23:00,72,27,27,False
-TKT0239,AG035,Account Access,Phone,Medium,Open,2026-01-08 15:00,,48,5661,,True
-TKT0240,AG044,Product Inquiry,Chat,Critical,Open,2026-05-04 07:00,,8,2885,,True
-TKT0241,AG014,Account Access,Phone,Medium,Closed,2026-06-26 01:00,2026-06-27 07:00,48,30,30,False
-TKT0242,AG026,Technical Support,Chat,Low,Closed,2026-08-09 22:00,2026-08-14 19:00,72,117,117,True
-TKT0243,AG016,Technical Support,Email,Medium,Closed,2026-01-28 10:00,2026-01-29 15:00,48,29,29,False
-TKT0244,AG027,Technical Support,Email,Low,Open,2026-08-31 12:00,,72,24,,False
-TKT0245,AG032,Refund Request,Chat,High,Closed,2026-08-28 18:00,2026-08-29 00:00,24,6,6,False
-TKT0246,AG030,Technical Support,Email,Medium,Closed,2026-03-20 15:00,2026-03-25 08:00,48,113,113,True
-TKT0247,AG044,Product Inquiry,Chat,Medium,Closed,2026-01-13 01:00,2026-01-14 19:00,48,42,42,False
-TKT0248,AG049,Product Inquiry,Chat,Medium,Closed,2026-08-05 03:00,2026-08-09 02:00,48,95,95,True
-TKT0249,AG005,Product Inquiry,Phone,Low,Closed,2026-01-14 18:00,2026-01-16 07:00,72,37,37,False
-TKT0250,AG040,Refund Request,Email,Medium,Open,2026-05-21 08:00,,48,2476,,True
-TKT0251,AG024,Technical Support,Email,Low,Closed,2026-01-25 12:00,2026-01-31 12:00,72,144,144,True
-TKT0252,AG022,Product Inquiry,Phone,Medium,Closed,2026-04-13 16:00,2026-04-15 14:00,48,46,46,False
-TKT0253,AG011,Product Inquiry,Phone,Medium,Closed,2026-06-05 16:00,2026-06-09 09:00,48,89,89,True
-TKT0254,AG032,Refund Request,Chat,Medium,Closed,2026-03-18 18:00,2026-03-23 15:00,48,117,117,True
-TKT0255,AG038,Account Access,Phone,Medium,Closed,2026-01-05 11:00,2026-01-06 14:00,48,27,27,False
-TKT0256,AG050,Refund Request,Phone,High,Closed,2026-06-11 00:00,2026-06-11 21:00,24,21,21,False
-TKT0257,AG010,Technical Support,Email,Low,Closed,2026-01-14 18:00,2026-01-16 19:00,72,49,49,False
-TKT0258,AG010,Product Inquiry,Phone,Medium,Closed,2026-06-29 03:00,2026-06-30 06:00,48,27,27,False
-TKT0259,AG048,Billing,Phone,Low,Open,2026-05-09 19:00,,72,2753,,True
-TKT0260,AG025,Account Access,Email,Low,Closed,2026-02-23 17:00,2026-02-26 13:00,72,68,68,False
-TKT0261,AG044,Account Access,Phone,Medium,Closed,2026-05-17 10:00,2026-05-19 09:00,48,47,47,False
-TKT0262,AG050,Account Access,Phone,Medium,Closed,2026-03-05 08:00,2026-03-06 04:00,48,20,20,False
-TKT0263,AG019,Billing,Phone,Low,Closed,2026-06-30 15:00,2026-07-02 03:00,72,36,36,False
-TKT0264,AG050,Technical Support,Chat,Medium,Open,2026-04-08 12:00,,48,3504,,True
-TKT0265,AG048,Product Inquiry,Email,Low,Closed,2026-07-02 02:00,2026-07-03 11:00,72,33,33,False
-TKT0266,AG045,Account Access,Email,Low,Open,2026-05-18 08:00,,72,2548,,True
-TKT0267,AG015,Technical Support,Email,Low,Closed,2026-07-09 18:00,2026-07-12 14:00,72,68,68,False
-TKT0268,AG001,Refund Request,Email,Low,Closed,2026-03-26 22:00,2026-03-27 16:00,72,18,18,False
-TKT0269,AG021,Account Access,Phone,Medium,Closed,2026-08-28 15:00,2026-08-29 10:00,48,19,19,False
-TKT0270,AG012,Product Inquiry,Email,Low,Closed,2026-07-16 02:00,2026-07-16 07:00,72,5,5,False
-TKT0271,AG019,Billing,Email,High,Closed,2026-01-10 12:00,2026-01-11 12:00,24,24,24,False
-TKT0272,AG022,Account Access,Chat,Low,Open,2026-06-04 03:00,,72,2145,,True
-TKT0273,AG030,Account Access,Email,Critical,Closed,2026-05-20 16:00,2026-05-23 17:00,8,73,73,True
-TKT0274,AG012,Billing,Phone,High,Closed,2026-03-26 05:00,2026-03-27 04:00,24,23,23,False
-TKT0275,AG028,Refund Request,Chat,Low,Closed,2026-03-17 18:00,2026-03-19 22:00,72,52,52,False
-TKT0276,AG016,Billing,Chat,Low,Closed,2026-06-21 03:00,2026-06-22 21:00,72,42,42,False
-TKT0277,AG020,Refund Request,Phone,Medium,Open,2026-04-25 08:00,,48,3100,,True
-TKT0278,AG008,Product Inquiry,Chat,Medium,Closed,2026-03-08 20:00,2026-03-10 15:00,48,43,43,False
-TKT0279,AG046,Account Access,Phone,Low,Open,2026-06-25 16:00,,72,1628,,True
-TKT0280,AG031,Technical Support,Chat,Low,Closed,2026-08-23 09:00,2026-08-24 03:00,72,18,18,False
-TKT0281,AG049,Refund Request,Phone,Medium,Closed,2026-06-05 11:00,2026-06-06 18:00,48,31,31,False
-TKT0282,AG034,Product Inquiry,Phone,High,Closed,2026-07-15 07:00,2026-07-15 10:00,24,3,3,False
-TKT0283,AG013,Refund Request,Phone,Medium,Closed,2026-01-20 18:00,2026-01-25 11:00,48,113,113,True
-TKT0284,AG006,Refund Request,Chat,Low,Closed,2026-03-25 16:00,2026-03-28 07:00,72,63,63,False
-TKT0285,AG036,Product Inquiry,Phone,High,Closed,2026-04-27 04:00,2026-04-27 06:00,24,2,2,False
-TKT0286,AG038,Billing,Email,High,Closed,2026-07-05 00:00,2026-07-07 04:00,24,52,52,True
-TKT0287,AG031,Billing,Chat,Medium,Closed,2026-06-29 02:00,2026-06-29 07:00,48,5,5,False
-TKT0288,AG024,Product Inquiry,Chat,Medium,Closed,2026-07-16 04:00,2026-07-20 10:00,48,102,102,True
-TKT0289,AG035,Technical Support,Phone,High,Closed,2026-08-21 12:00,2026-08-22 10:00,24,22,22,False
-TKT0290,AG026,Refund Request,Email,High,Open,2026-01-31 05:00,,24,5119,,True
-TKT0291,AG044,Refund Request,Chat,Medium,Closed,2026-02-27 00:00,2026-03-03 12:00,48,108,108,True
-TKT0292,AG013,Billing,Email,Medium,Closed,2026-07-30 07:00,2026-07-31 01:00,48,18,18,False
-TKT0293,AG016,Technical Support,Email,High,Closed,2026-04-18 19:00,2026-04-19 22:00,24,27,27,True
-TKT0294,AG016,Billing,Chat,Low,Closed,2026-01-09 14:00,2026-01-09 21:00,72,7,7,False
-TKT0295,AG033,Account Access,Email,Medium,Closed,2026-05-19 06:00,2026-05-22 00:00,48,66,66,True
-TKT0296,AG021,Technical Support,Chat,High,Closed,2026-07-07 18:00,2026-07-08 16:00,24,22,22,False
-TKT0297,AG036,Refund Request,Phone,High,Closed,2026-06-19 16:00,2026-06-19 18:00,24,2,2,False
-TKT0298,AG042,Product Inquiry,Phone,High,Closed,2026-06-10 21:00,2026-06-11 09:00,24,12,12,False
-TKT0299,AG031,Technical Support,Email,Low,Closed,2026-04-17 13:00,2026-04-20 10:00,72,69,69,False
-TKT0300,AG004,Refund Request,Chat,Low,Open,2026-07-01 04:00,,72,1496,,True
-TKT0301,AG022,Billing,Chat,Critical,Closed,2026-05-23 16:00,2026-05-23 20:00,8,4,4,False
-TKT0302,AG025,Refund Request,Phone,High,Closed,2026-01-24 17:00,2026-01-25 02:00,24,9,9,False
-TKT0303,AG038,Refund Request,Email,Low,Open,2026-01-19 06:00,,72,5406,,True
-TKT0304,AG013,Billing,Phone,Medium,Closed,2026-08-11 10:00,2026-08-14 14:00,48,76,76,True
-TKT0305,AG016,Refund Request,Chat,Critical,Closed,2026-05-03 07:00,2026-05-03 14:00,8,7,7,False
-TKT0306,AG024,Refund Request,Chat,High,Closed,2026-04-08 14:00,2026-04-08 23:00,24,9,9,False
-TKT0307,AG024,Account Access,Chat,Medium,Closed,2026-07-25 23:00,2026-07-29 02:00,48,75,75,True
-TKT0308,AG038,Refund Request,Phone,Low,Closed,2026-08-10 07:00,2026-08-13 06:00,72,71,71,False
-TKT0309,AG032,Refund Request,Phone,Medium,Closed,2026-02-09 06:00,2026-02-09 22:00,48,16,16,False
-TKT0310,AG042,Product Inquiry,Chat,High,Closed,2026-03-28 08:00,2026-03-29 08:00,24,24,24,False
-TKT0311,AG012,Refund Request,Phone,Low,Closed,2026-07-23 11:00,2026-07-26 02:00,72,63,63,False
-TKT0312,AG005,Billing,Email,Critical,Open,2026-05-15 01:00,,8,2627,,True
-TKT0313,AG014,Refund Request,Chat,Medium,Closed,2026-08-04 20:00,2026-08-04 21:00,48,1,1,False
-TKT0314,AG043,Product Inquiry,Email,Medium,Closed,2026-06-08 20:00,2026-06-10 03:00,48,31,31,False
-TKT0315,AG035,Account Access,Email,Low,Closed,2026-05-22 13:00,2026-05-24 01:00,72,36,36,False
-TKT0316,AG007,Billing,Phone,Medium,Closed,2026-06-28 21:00,2026-07-01 20:00,48,71,71,True
-TKT0317,AG026,Billing,Chat,Low,Closed,2026-02-19 19:00,2026-02-24 06:00,72,107,107,True
-TKT0318,AG044,Billing,Phone,Critical,Closed,2026-04-28 18:00,2026-04-28 23:00,8,5,5,False
-TKT0319,AG004,Billing,Phone,Critical,Closed,2026-06-16 01:00,2026-06-16 09:00,8,8,8,False
-TKT0320,AG034,Billing,Email,Low,Closed,2026-05-08 13:00,2026-05-09 02:00,72,13,13,False
-TKT0321,AG031,Account Access,Email,Low,Open,2026-08-11 22:00,,72,494,,True
-TKT0322,AG037,Billing,Email,High,Open,2026-06-25 08:00,,24,1636,,True
-TKT0323,AG038,Technical Support,Phone,High,Open,2026-03-22 00:00,,24,3924,,True
-TKT0324,AG025,Refund Request,Chat,High,Closed,2026-08-26 02:00,2026-08-26 21:00,24,19,19,False
-TKT0325,AG033,Account Access,Email,Medium,Closed,2026-07-09 04:00,2026-07-09 10:00,48,6,6,False
-TKT0326,AG050,Account Access,Email,Low,Closed,2026-03-01 02:00,2026-03-06 05:00,72,123,123,True
-TKT0327,AG028,Technical Support,Phone,Medium,Closed,2026-07-20 14:00,2026-07-21 15:00,48,25,25,False
-TKT0328,AG046,Billing,Email,Medium,Closed,2026-04-08 02:00,2026-04-08 18:00,48,16,16,False
-TKT0329,AG021,Account Access,Email,Low,Closed,2026-04-08 22:00,2026-04-11 00:00,72,50,50,False
-TKT0330,AG009,Billing,Email,Low,Closed,2026-08-30 09:00,2026-09-02 23:00,72,86,86,True
-TKT0331,AG023,Refund Request,Email,Medium,Closed,2026-05-23 17:00,2026-05-23 23:00,48,6,6,False
-TKT0332,AG001,Account Access,Chat,Medium,Open,2026-07-20 10:00,,48,1034,,True
-TKT0333,AG016,Refund Request,Phone,Medium,Open,2026-01-22 23:00,,48,5317,,True
-TKT0334,AG010,Billing,Email,Low,Closed,2026-04-08 05:00,2026-04-10 21:00,72,64,64,False
-TKT0335,AG016,Product Inquiry,Phone,Medium,Closed,2026-04-18 09:00,2026-04-19 02:00,48,17,17,False
-TKT0336,AG022,Refund Request,Chat,Medium,Closed,2026-04-28 03:00,2026-04-29 05:00,48,26,26,False
-TKT0337,AG020,Account Access,Phone,High,Closed,2026-03-26 14:00,2026-03-28 08:00,24,42,42,True
-TKT0338,AG019,Product Inquiry,Phone,High,Closed,2026-02-21 15:00,2026-02-24 08:00,24,65,65,True
-TKT0339,AG008,Refund Request,Email,High,Closed,2026-03-25 12:00,2026-03-28 11:00,24,71,71,True
-TKT0340,AG030,Technical Support,Chat,Medium,Closed,2026-05-20 05:00,2026-05-22 04:00,48,47,47,False
-TKT0341,AG044,Product Inquiry,Email,High,Closed,2026-08-01 22:00,2026-08-05 03:00,24,77,77,True
-TKT0342,AG005,Product Inquiry,Phone,Medium,Closed,2026-03-03 08:00,2026-03-04 09:00,48,25,25,False
-TKT0343,AG035,Billing,Chat,Medium,Closed,2026-04-13 17:00,2026-04-17 23:00,48,102,102,True
-TKT0344,AG050,Technical Support,Phone,Medium,Closed,2026-07-27 17:00,2026-07-30 07:00,48,62,62,True
-TKT0345,AG044,Product Inquiry,Chat,Medium,Closed,2026-02-12 20:00,2026-02-14 14:00,48,42,42,False
-TKT0346,AG029,Account Access,Chat,Critical,Closed,2026-04-21 03:00,2026-04-21 07:00,8,4,4,False
-TKT0347,AG031,Billing,Chat,Medium,Closed,2026-06-23 18:00,2026-06-23 20:00,48,2,2,False
-TKT0348,AG047,Technical Support,Chat,Medium,Open,2026-01-22 03:00,,48,5337,,True
-TKT0349,AG029,Product Inquiry,Chat,Low,Closed,2026-04-27 06:00,2026-04-27 19:00,72,13,13,False
-TKT0350,AG044,Technical Support,Phone,Low,Closed,2026-01-12 22:00,2026-01-16 12:00,72,86,86,True
-TKT0351,AG015,Product Inquiry,Phone,Low,Closed,2026-02-14 17:00,2026-02-17 05:00,72,60,60,False
-TKT0352,AG029,Refund Request,Chat,Low,Closed,2026-06-13 21:00,2026-06-14 23:00,72,26,26,False
-TKT0353,AG037,Billing,Phone,Medium,Closed,2026-06-30 06:00,2026-07-02 15:00,48,57,57,True
-TKT0354,AG034,Account Access,Phone,Low,Closed,2026-03-25 06:00,2026-03-27 21:00,72,63,63,False
-TKT0355,AG040,Technical Support,Phone,Medium,Closed,2026-04-11 18:00,2026-04-13 00:00,48,30,30,False
-TKT0356,AG008,Technical Support,Chat,Medium,Closed,2026-03-18 19:00,2026-03-19 16:00,48,21,21,False
-TKT0357,AG037,Product Inquiry,Chat,Low,Closed,2026-04-06 22:00,2026-04-07 16:00,72,18,18,False
-TKT0358,AG036,Technical Support,Chat,Low,Closed,2026-06-12 17:00,2026-06-13 16:00,72,23,23,False
-TKT0359,AG040,Billing,Chat,Low,Open,2026-02-17 10:00,,72,4706,,True
-TKT0360,AG027,Product Inquiry,Chat,Critical,Closed,2026-05-05 04:00,2026-05-05 12:00,8,8,8,False
-TKT0361,AG019,Billing,Chat,Medium,Closed,2026-04-24 15:00,2026-04-25 06:00,48,15,15,False
-TKT0362,AG036,Refund Request,Email,Low,Closed,2026-03-15 05:00,2026-03-17 21:00,72,64,64,False
-TKT0363,AG024,Refund Request,Email,Medium,Open,2026-03-10 17:00,,48,4195,,True
-TKT0364,AG042,Technical Support,Chat,High,Closed,2026-04-23 17:00,2026-04-24 17:00,24,24,24,False
-TKT0365,AG029,Billing,Email,High,Closed,2026-01-09 14:00,2026-01-11 02:00,24,36,36,True
-TKT0366,AG011,Refund Request,Email,Low,Closed,2026-07-08 18:00,2026-07-14 01:00,72,127,127,True
-TKT0367,AG037,Account Access,Phone,High,Open,2026-07-28 06:00,,24,846,,True
-TKT0368,AG037,Account Access,Phone,Low,Closed,2026-05-18 05:00,2026-05-19 19:00,72,38,38,False
-TKT0369,AG004,Account Access,Phone,Critical,Closed,2026-06-23 03:00,2026-06-25 16:00,8,61,61,True
-TKT0370,AG049,Product Inquiry,Chat,Low,Closed,2026-08-10 04:00,2026-08-11 12:00,72,32,32,False
-TKT0371,AG041,Billing,Chat,Low,Closed,2026-06-11 08:00,2026-06-11 18:00,72,10,10,False
-TKT0372,AG024,Product Inquiry,Chat,Medium,Open,2026-03-13 22:00,,48,4118,,True
-TKT0373,AG005,Refund Request,Chat,Low,Closed,2026-01-01 23:00,2026-01-06 21:00,72,118,118,True
-TKT0374,AG022,Refund Request,Phone,Low,Closed,2026-04-20 06:00,2026-04-21 19:00,72,37,37,False
-TKT0375,AG003,Billing,Phone,Low,Closed,2026-08-07 15:00,2026-08-10 22:00,72,79,79,True
-TKT0376,AG030,Billing,Chat,High,Closed,2026-04-28 00:00,2026-05-01 09:00,24,81,81,True
-TKT0377,AG020,Technical Support,Chat,Low,Open,2026-06-26 04:00,,72,1616,,True
-TKT0378,AG004,Product Inquiry,Phone,Low,Closed,2026-04-03 08:00,2026-04-04 06:00,72,22,22,False
-TKT0379,AG001,Technical Support,Chat,Low,Closed,2026-06-29 07:00,2026-06-29 20:00,72,13,13,False
-TKT0380,AG045,Account Access,Email,Low,Closed,2026-06-01 07:00,2026-06-01 09:00,72,2,2,False
-TKT0381,AG006,Billing,Email,Critical,Closed,2026-04-19 22:00,2026-04-20 05:00,8,7,7,False
-TKT0382,AG042,Technical Support,Email,Low,Closed,2026-08-14 09:00,2026-08-18 03:00,72,90,90,True
-TKT0383,AG014,Technical Support,Chat,Medium,Closed,2026-01-03 19:00,2026-01-05 18:00,48,47,47,False
-TKT0384,AG038,Product Inquiry,Chat,Medium,Closed,2026-04-24 06:00,2026-04-24 14:00,48,8,8,False
-TKT0385,AG036,Refund Request,Phone,Critical,Closed,2026-03-22 04:00,2026-03-22 08:00,8,4,4,False
-TKT0386,AG014,Refund Request,Phone,Medium,Closed,2026-03-14 22:00,2026-03-18 13:00,48,87,87,True
-TKT0387,AG032,Product Inquiry,Email,Medium,Closed,2026-07-11 12:00,2026-07-12 04:00,48,16,16,False
-TKT0388,AG024,Account Access,Email,Low,Closed,2026-06-13 19:00,2026-06-16 21:00,72,74,74,True
-TKT0389,AG049,Product Inquiry,Email,Medium,Closed,2026-08-03 18:00,2026-08-04 06:00,48,12,12,False
-TKT0390,AG026,Refund Request,Chat,Low,Closed,2026-01-18 00:00,2026-01-18 08:00,72,8,8,False
-TKT0391,AG035,Refund Request,Phone,Medium,Closed,2026-05-09 13:00,2026-05-11 06:00,48,41,41,False
-TKT0392,AG035,Account Access,Chat,Low,Closed,2026-01-22 09:00,2026-01-26 05:00,72,92,92,True
-TKT0393,AG028,Technical Support,Email,Medium,Closed,2026-07-15 20:00,2026-07-17 17:00,48,45,45,False
-TKT0394,AG020,Technical Support,Email,Low,Closed,2026-08-25 13:00,2026-08-25 21:00,72,8,8,False
-TKT0395,AG034,Refund Request,Phone,Low,Closed,2026-02-05 22:00,2026-02-07 19:00,72,45,45,False
-TKT0396,AG050,Billing,Chat,Low,Closed,2026-04-06 04:00,2026-04-09 20:00,72,88,88,True
-TKT0397,AG041,Billing,Chat,High,Closed,2026-03-11 16:00,2026-03-12 11:00,24,19,19,False
-TKT0398,AG011,Account Access,Email,Medium,Closed,2026-04-03 01:00,2026-04-04 01:00,48,24,24,False
-TKT0399,AG003,Billing,Email,High,Closed,2026-06-22 23:00,2026-06-23 00:00,24,1,1,False
-TKT0400,AG012,Billing,Phone,Low,Open,2026-04-04 12:00,,72,3600,,True
-TKT0401,AG027,Account Access,Chat,High,Closed,2026-07-02 23:00,2026-07-03 07:00,24,8,8,False
-TKT0402,AG012,Technical Support,Phone,High,Closed,2026-05-27 11:00,2026-05-27 13:00,24,2,2,False
-TKT0403,AG019,Account Access,Chat,Critical,Open,2026-04-13 02:00,,8,3394,,True
-TKT0404,AG048,Refund Request,Email,Low,Closed,2026-04-27 00:00,2026-04-28 15:00,72,39,39,False
-TKT0405,AG050,Technical Support,Phone,Medium,Open,2026-06-01 15:00,,48,2205,,True
-TKT0406,AG015,Refund Request,Chat,High,Closed,2026-07-14 07:00,2026-07-15 11:00,24,28,28,True
-TKT0407,AG001,Product Inquiry,Phone,Medium,Open,2026-06-27 00:00,,48,1596,,True
-TKT0408,AG004,Technical Support,Phone,Medium,Closed,2026-01-27 06:00,2026-01-28 14:00,48,32,32,False
-TKT0409,AG034,Product Inquiry,Phone,Low,Open,2026-01-12 07:00,,72,5573,,True
-TKT0410,AG041,Product Inquiry,Email,High,Closed,2026-04-28 23:00,2026-04-29 04:00,24,5,5,False
-TKT0411,AG017,Account Access,Chat,Medium,Closed,2026-01-16 13:00,2026-01-17 08:00,48,19,19,False
-TKT0412,AG013,Technical Support,Phone,Medium,Closed,2026-07-08 10:00,2026-07-08 15:00,48,5,5,False
-TKT0413,AG035,Account Access,Email,Low,Closed,2026-01-28 05:00,2026-01-28 21:00,72,16,16,False
-TKT0414,AG006,Technical Support,Phone,Medium,Open,2026-04-29 08:00,,48,3004,,True
-TKT0415,AG010,Billing,Phone,Low,Closed,2026-06-30 22:00,2026-07-02 16:00,72,42,42,False
-TKT0416,AG012,Billing,Chat,Low,Closed,2026-04-02 12:00,2026-04-03 22:00,72,34,34,False
-TKT0417,AG009,Billing,Email,High,Closed,2026-05-23 23:00,2026-05-24 03:00,24,4,4,False
-TKT0418,AG044,Billing,Phone,Low,Closed,2026-07-19 07:00,2026-07-24 07:00,72,120,120,True
-TKT0419,AG029,Technical Support,Email,Medium,Closed,2026-08-23 02:00,2026-08-24 20:00,48,42,42,False
-TKT0420,AG011,Refund Request,Chat,High,Closed,2026-08-01 10:00,2026-08-02 17:00,24,31,31,True
-TKT0421,AG023,Technical Support,Email,High,Closed,2026-04-12 15:00,2026-04-12 21:00,24,6,6,False
-TKT0422,AG042,Account Access,Chat,Low,Closed,2026-04-25 04:00,2026-04-26 12:00,72,32,32,False
-TKT0423,AG027,Technical Support,Phone,Medium,Closed,2026-05-21 15:00,2026-05-22 00:00,48,9,9,False
-TKT0424,AG025,Account Access,Chat,High,Closed,2026-05-15 07:00,2026-05-16 10:00,24,27,27,True
-TKT0425,AG033,Account Access,Chat,Medium,Open,2026-05-05 11:00,,48,2857,,True
-TKT0426,AG004,Product Inquiry,Phone,Low,Closed,2026-01-07 10:00,2026-01-08 22:00,72,36,36,False
-TKT0427,AG007,Technical Support,Phone,Medium,Open,2026-05-30 07:00,,48,2261,,True
-TKT0428,AG037,Product Inquiry,Chat,Low,Closed,2026-05-17 23:00,2026-05-22 04:00,72,101,101,True
-TKT0429,AG045,Account Access,Phone,High,Closed,2026-08-05 05:00,2026-08-06 05:00,24,24,24,False
-TKT0430,AG037,Technical Support,Phone,Low,Open,2026-06-29 11:00,,72,1537,,True
-TKT0431,AG006,Billing,Email,High,Closed,2026-08-03 15:00,2026-08-03 17:00,24,2,2,False
-TKT0432,AG013,Technical Support,Chat,Medium,Closed,2026-01-06 16:00,2026-01-08 08:00,48,40,40,False
-TKT0433,AG010,Billing,Phone,Medium,Closed,2026-08-24 10:00,2026-08-26 08:00,48,46,46,False
-TKT0434,AG007,Account Access,Chat,High,Closed,2026-01-19 11:00,2026-01-20 06:00,24,19,19,False
-TKT0435,AG041,Product Inquiry,Phone,Low,Open,2026-02-10 23:00,,72,4861,,True
-TKT0436,AG015,Refund Request,Email,Low,Closed,2026-07-01 17:00,2026-07-06 15:00,72,118,118,True
-TKT0437,AG045,Refund Request,Chat,Medium,Closed,2026-07-07 22:00,2026-07-07 23:00,48,1,1,False
-TKT0438,AG015,Refund Request,Email,High,Closed,2026-07-17 18:00,2026-07-18 14:00,24,20,20,False
-TKT0439,AG011,Billing,Phone,High,Closed,2026-02-06 10:00,2026-02-06 21:00,24,11,11,False
-TKT0440,AG045,Billing,Chat,Medium,Closed,2026-07-06 10:00,2026-07-07 02:00,48,16,16,False
-TKT0441,AG011,Product Inquiry,Chat,Low,Closed,2026-01-28 23:00,2026-01-31 05:00,72,54,54,False
-TKT0442,AG011,Product Inquiry,Email,High,Closed,2026-03-31 17:00,2026-04-02 22:00,24,53,53,True
-TKT0443,AG005,Account Access,Email,High,Closed,2026-01-09 09:00,2026-01-09 13:00,24,4,4,False
-TKT0444,AG022,Refund Request,Phone,High,Closed,2026-02-11 23:00,2026-02-13 11:00,24,36,36,True
-TKT0445,AG028,Technical Support,Email,High,Closed,2026-06-30 00:00,2026-06-30 20:00,24,20,20,False
-TKT0446,AG017,Account Access,Chat,Low,Closed,2026-02-22 06:00,2026-02-25 04:00,72,70,70,False
-TKT0447,AG004,Account Access,Email,Low,Closed,2026-01-13 12:00,2026-01-17 08:00,72,92,92,True
-TKT0448,AG002,Technical Support,Email,Medium,Closed,2026-03-17 21:00,2026-03-18 04:00,48,7,7,False
-TKT0449,AG020,Product Inquiry,Chat,Medium,Open,2026-01-21 15:00,,48,5349,,True
-TKT0450,AG024,Product Inquiry,Chat,Medium,Closed,2026-06-19 08:00,2026-06-19 20:00,48,12,12,False
-TKT0451,AG037,Billing,Email,Low,Closed,2026-01-12 08:00,2026-01-13 19:00,72,35,35,False
-TKT0452,AG027,Refund Request,Email,High,Closed,2026-06-20 03:00,2026-06-20 21:00,24,18,18,False
-TKT0453,AG027,Refund Request,Phone,Medium,Open,2026-08-04 12:00,,48,672,,True
-TKT0454,AG031,Account Access,Email,High,Open,2026-05-02 18:00,,24,2922,,True
-TKT0455,AG037,Refund Request,Email,Medium,Closed,2026-08-07 22:00,2026-08-09 08:00,48,34,34,False
-TKT0456,AG013,Technical Support,Email,Low,Closed,2026-07-13 14:00,2026-07-17 18:00,72,100,100,True
-TKT0457,AG039,Account Access,Chat,Medium,Closed,2026-06-24 13:00,2026-06-27 08:00,48,67,67,True
-TKT0458,AG021,Account Access,Phone,High,Closed,2026-08-23 02:00,2026-08-23 20:00,24,18,18,False
-TKT0459,AG027,Billing,Chat,Medium,Closed,2026-08-12 00:00,2026-08-13 10:00,48,34,34,False
-TKT0460,AG007,Refund Request,Email,Low,Closed,2026-05-26 18:00,2026-05-30 07:00,72,85,85,True
-TKT0461,AG027,Account Access,Chat,High,Open,2026-08-11 17:00,,24,499,,True
-TKT0462,AG010,Refund Request,Phone,Medium,Closed,2026-05-27 19:00,2026-05-28 21:00,48,26,26,False
-TKT0463,AG004,Product Inquiry,Chat,Medium,Closed,2026-04-13 01:00,2026-04-16 08:00,48,79,79,True
-TKT0464,AG020,Account Access,Chat,High,Open,2026-01-06 10:00,,24,5714,,True
-TKT0465,AG009,Account Access,Phone,High,Closed,2026-08-08 22:00,2026-08-11 04:00,24,54,54,True
-TKT0466,AG006,Technical Support,Chat,Medium,Closed,2026-07-31 10:00,2026-08-02 04:00,48,42,42,False
-TKT0467,AG004,Refund Request,Email,Low,Closed,2026-07-30 13:00,2026-08-04 13:00,72,120,120,True
-TKT0468,AG037,Billing,Email,Low,Closed,2026-07-01 16:00,2026-07-07 12:00,72,140,140,True
-TKT0469,AG016,Billing,Chat,Low,Open,2026-08-02 06:00,,72,726,,True
-TKT0470,AG033,Product Inquiry,Phone,Low,Closed,2026-04-03 22:00,2026-04-06 10:00,72,60,60,False
-TKT0471,AG012,Product Inquiry,Phone,High,Closed,2026-06-24 00:00,2026-06-24 15:00,24,15,15,False
-TKT0472,AG017,Billing,Chat,Medium,Open,2026-03-30 05:00,,48,3727,,True
-TKT0473,AG050,Technical Support,Email,Low,Open,2026-01-13 05:00,,72,5551,,True
-TKT0474,AG050,Billing,Chat,Medium,Closed,2026-06-23 06:00,2026-06-23 08:00,48,2,2,False
-TKT0475,AG039,Account Access,Phone,High,Closed,2026-06-15 05:00,2026-06-15 14:00,24,9,9,False
-TKT0476,AG030,Account Access,Email,Critical,Closed,2026-06-14 08:00,2026-06-14 14:00,8,6,6,False
-TKT0477,AG026,Refund Request,Email,Medium,Open,2026-06-23 16:00,,48,1676,,True
-TKT0478,AG020,Billing,Chat,Low,Closed,2026-06-19 11:00,2026-06-21 00:00,72,37,37,False
-TKT0479,AG013,Technical Support,Phone,Low,Closed,2026-03-12 20:00,2026-03-14 11:00,72,39,39,False
-TKT0480,AG039,Product Inquiry,Phone,High,Open,2026-08-19 01:00,,24,323,,True
-TKT0481,AG017,Product Inquiry,Chat,Low,Closed,2026-02-05 23:00,2026-02-07 13:00,72,38,38,False
-TKT0482,AG022,Technical Support,Phone,Medium,Closed,2026-01-10 18:00,2026-01-11 07:00,48,13,13,False
-TKT0483,AG043,Account Access,Phone,Medium,Open,2026-07-20 15:00,,48,1029,,True
-TKT0484,AG012,Account Access,Email,Low,Open,2026-02-13 21:00,,72,4791,,True
-TKT0485,AG044,Account Access,Phone,Medium,Closed,2026-07-09 08:00,2026-07-09 20:00,48,12,12,False
-TKT0486,AG024,Account Access,Phone,Low,Closed,2026-04-01 07:00,2026-04-03 02:00,72,43,43,False
-TKT0487,AG031,Technical Support,Phone,Low,Closed,2026-08-06 03:00,2026-08-09 13:00,72,82,82,True
-TKT0488,AG009,Technical Support,Chat,Low,Closed,2026-06-24 12:00,2026-06-25 08:00,72,20,20,False
-TKT0489,AG050,Billing,Chat,Medium,Closed,2026-05-26 14:00,2026-05-29 14:00,48,72,72,True
-TKT0490,AG014,Technical Support,Phone,Low,Closed,2026-02-15 10:00,2026-02-16 22:00,72,36,36,False
-TKT0491,AG026,Product Inquiry,Chat,High,Closed,2026-05-06 02:00,2026-05-06 16:00,24,14,14,False
-TKT0492,AG021,Refund Request,Email,Medium,Closed,2026-01-10 17:00,2026-01-10 18:00,48,1,1,False
-TKT0493,AG020,Technical Support,Email,Low,Closed,2026-01-02 20:00,2026-01-04 17:00,72,45,45,False
-TKT0494,AG019,Product Inquiry,Phone,Medium,Closed,2026-05-31 09:00,2026-06-04 00:00,48,87,87,True
-TKT0495,AG022,Product Inquiry,Chat,Medium,Closed,2026-05-15 10:00,2026-05-15 19:00,48,9,9,False
-TKT0496,AG014,Billing,Phone,High,Closed,2026-02-12 12:00,2026-02-12 17:00,24,5,5,False
-TKT0497,AG041,Account Access,Phone,Medium,Closed,2026-02-01 11:00,2026-02-05 12:00,48,97,97,True
-TKT0498,AG004,Billing,Chat,Medium,Closed,2026-06-02 01:00,2026-06-02 03:00,48,2,2,False
-TKT0499,AG045,Billing,Chat,Medium,Closed,2026-02-01 17:00,2026-02-02 07:00,48,14,14,False
-TKT0500,AG009,Product Inquiry,Email,Medium,Closed,2026-01-26 21:00,2026-01-28 18:00,48,45,45,False
+TKT0001,AG007,Refund Request,Email,Medium,Closed,2026-03-12 07:00,2026-03-14 07:00,48,48,48,False
+TKT0002,AG002,Refund Request,Email,Medium,Closed,2026-01-24 06:00,2026-01-25 21:00,48,39,39,False
+TKT0003,AG001,Technical Support,Phone,Medium,Closed,2026-04-18 07:00,2026-04-19 01:00,48,18,18,False
+TKT0004,AG007,Account Access,Chat,Medium,Closed,2026-02-25 10:00,2026-02-26 11:00,48,25,25,False
+TKT0005,AG006,Refund Request,Chat,Medium,Closed,2026-07-06 14:00,2026-07-07 15:00,48,25,25,False
+TKT0006,AG005,Billing,Phone,High,Closed,2026-08-09 11:00,2026-08-10 10:00,24,23,23,False
+TKT0007,AG018,Product Inquiry,Phone,Low,Closed,2026-01-21 07:00,2026-01-26 08:00,72,121,121,True
+TKT0008,AG044,Billing,Phone,High,Closed,2026-04-01 06:00,2026-04-02 05:00,24,23,23,False
+TKT0009,AG041,Refund Request,Email,Medium,Closed,2026-03-04 05:00,2026-03-04 23:00,48,18,18,False
+TKT0010,AG003,Account Access,Chat,Medium,Open,2026-08-29 21:00,,48,63,,True
+TKT0011,AG026,Product Inquiry,Email,Low,Closed,2026-05-26 22:00,2026-05-29 14:00,72,64,64,False
+TKT0012,AG038,Product Inquiry,Chat,Low,Closed,2026-05-24 17:00,2026-05-27 00:00,72,55,55,False
+TKT0013,AG049,Billing,Email,Low,Open,2026-08-29 06:00,,72,78,,True
+TKT0014,AG025,Refund Request,Chat,Low,Closed,2026-06-24 13:00,2026-06-26 15:00,72,50,50,False
+TKT0015,AG044,Billing,Phone,Medium,Open,2026-08-28 10:00,,48,98,,True
+TKT0016,AG028,Technical Support,Chat,High,Closed,2026-07-16 20:00,2026-07-17 06:00,24,10,10,False
+TKT0017,AG033,Billing,Phone,Low,Closed,2026-07-04 08:00,2026-07-08 07:00,72,95,95,True
+TKT0018,AG035,Refund Request,Email,Low,Closed,2026-06-05 06:00,2026-06-06 03:00,72,21,21,False
+TKT0019,AG016,Billing,Email,Medium,Closed,2026-01-29 11:00,2026-02-02 03:00,48,88,88,True
+TKT0020,AG005,Refund Request,Email,High,Open,2026-08-31 20:00,,24,16,,False
+TKT0021,AG014,Refund Request,Phone,Low,Closed,2026-05-21 05:00,2026-05-23 12:00,72,55,55,False
+TKT0022,AG034,Product Inquiry,Email,Medium,Closed,2026-04-13 21:00,2026-04-15 02:00,48,29,29,False
+TKT0023,AG001,Billing,Phone,Low,Closed,2026-01-06 18:00,2026-01-07 23:00,72,29,29,False
+TKT0024,AG018,Product Inquiry,Email,Medium,Closed,2026-01-09 10:00,2026-01-10 02:00,48,16,16,False
+TKT0025,AG031,Product Inquiry,Email,Medium,Closed,2026-08-14 18:00,2026-08-15 10:00,48,16,16,False
+TKT0026,AG044,Billing,Email,Low,Closed,2026-04-01 13:00,2026-04-01 20:00,72,7,7,False
+TKT0027,AG035,Product Inquiry,Email,Medium,Closed,2026-08-09 03:00,2026-08-09 16:00,48,13,13,False
+TKT0028,AG007,Billing,Phone,Medium,Closed,2026-03-05 02:00,2026-03-06 14:00,48,36,36,False
+TKT0029,AG049,Technical Support,Email,Critical,Open,2026-08-25 05:00,,8,175,,True
+TKT0030,AG025,Billing,Chat,Medium,Closed,2026-08-10 12:00,2026-08-13 10:00,48,70,70,True
+TKT0031,AG043,Product Inquiry,Email,Low,Closed,2026-04-27 09:00,2026-04-30 09:00,72,72,72,False
+TKT0032,AG048,Account Access,Email,Low,Closed,2026-01-15 18:00,2026-01-16 02:00,72,8,8,False
+TKT0033,AG006,Technical Support,Email,Low,Closed,2026-08-07 16:00,2026-08-10 10:00,72,66,66,False
+TKT0034,AG016,Refund Request,Phone,Medium,Closed,2026-03-02 12:00,2026-03-04 01:00,48,37,37,False
+TKT0035,AG017,Technical Support,Phone,Low,Closed,2026-06-18 18:00,2026-06-20 11:00,72,41,41,False
+TKT0036,AG030,Account Access,Email,Medium,Closed,2026-04-12 04:00,2026-04-13 00:00,48,20,20,False
+TKT0037,AG033,Account Access,Email,Low,Closed,2026-05-25 03:00,2026-05-26 07:00,72,28,28,False
+TKT0038,AG019,Technical Support,Chat,High,Open,2026-08-27 12:00,,24,120,,True
+TKT0039,AG036,Account Access,Phone,High,Closed,2026-06-06 20:00,2026-06-07 18:00,24,22,22,False
+TKT0040,AG048,Refund Request,Email,Low,Open,2026-08-31 22:00,,72,14,,False
+TKT0041,AG033,Product Inquiry,Chat,Low,Closed,2026-07-03 10:00,2026-07-04 20:00,72,34,34,False
+TKT0042,AG018,Billing,Email,High,Open,2026-08-31 22:00,,24,14,,False
+TKT0043,AG046,Product Inquiry,Phone,Low,Closed,2026-03-09 05:00,2026-03-12 04:00,72,71,71,False
+TKT0044,AG003,Account Access,Phone,Low,Closed,2026-08-15 22:00,2026-08-21 20:00,72,142,142,True
+TKT0045,AG023,Technical Support,Phone,Medium,Closed,2026-01-11 09:00,2026-01-11 12:00,48,3,3,False
+TKT0046,AG040,Technical Support,Email,Low,Closed,2026-07-19 17:00,2026-07-24 22:00,72,125,125,True
+TKT0047,AG002,Technical Support,Phone,High,Open,2026-08-30 09:00,,24,51,,True
+TKT0048,AG018,Technical Support,Phone,High,Closed,2026-04-16 21:00,2026-04-19 05:00,24,56,56,True
+TKT0049,AG013,Product Inquiry,Chat,Low,Open,2026-08-26 07:00,,72,149,,True
+TKT0050,AG026,Account Access,Chat,Low,Closed,2026-02-28 07:00,2026-03-01 08:00,72,25,25,False
+TKT0051,AG033,Product Inquiry,Phone,High,Open,2026-08-31 15:00,,24,21,,False
+TKT0052,AG012,Refund Request,Chat,Critical,Closed,2026-01-08 03:00,2026-01-09 21:00,8,42,42,True
+TKT0053,AG039,Refund Request,Email,Low,Closed,2026-03-30 23:00,2026-04-05 07:00,72,128,128,True
+TKT0054,AG034,Refund Request,Phone,Medium,Closed,2026-03-07 01:00,2026-03-07 02:00,48,1,1,False
+TKT0055,AG043,Account Access,Phone,Medium,Closed,2026-06-21 06:00,2026-06-21 11:00,48,5,5,False
+TKT0056,AG033,Account Access,Phone,Low,Open,2026-08-28 16:00,,72,92,,True
+TKT0057,AG043,Product Inquiry,Phone,Medium,Closed,2026-03-17 17:00,2026-03-18 20:00,48,27,27,False
+TKT0058,AG020,Account Access,Email,Medium,Closed,2026-05-26 09:00,2026-05-26 10:00,48,1,1,False
+TKT0059,AG044,Technical Support,Phone,Medium,Closed,2026-06-17 10:00,2026-06-18 15:00,48,29,29,False
+TKT0060,AG043,Billing,Chat,Medium,Open,2026-08-30 01:00,,48,59,,True
+TKT0061,AG044,Account Access,Email,Medium,Closed,2026-03-27 02:00,2026-03-30 09:00,48,79,79,True
+TKT0062,AG030,Product Inquiry,Phone,High,Closed,2026-01-12 07:00,2026-01-13 17:00,24,34,34,True
+TKT0063,AG042,Billing,Email,Medium,Closed,2026-04-09 15:00,2026-04-10 01:00,48,10,10,False
+TKT0064,AG036,Technical Support,Email,High,Closed,2026-07-25 22:00,2026-07-26 00:00,24,2,2,False
+TKT0065,AG049,Product Inquiry,Phone,Medium,Closed,2026-06-20 16:00,2026-06-24 09:00,48,89,89,True
+TKT0066,AG029,Technical Support,Phone,High,Open,2026-08-31 18:00,,24,18,,False
+TKT0067,AG050,Refund Request,Chat,High,Closed,2026-07-12 07:00,2026-07-14 19:00,24,60,60,True
+TKT0068,AG022,Account Access,Phone,Medium,Closed,2026-01-20 22:00,2026-01-21 16:00,48,18,18,False
+TKT0069,AG005,Product Inquiry,Chat,Low,Closed,2026-04-09 22:00,2026-04-11 02:00,72,28,28,False
+TKT0070,AG050,Refund Request,Phone,Low,Closed,2026-01-16 06:00,2026-01-21 08:00,72,122,122,True
+TKT0071,AG001,Account Access,Chat,Low,Open,2026-08-28 05:00,,72,103,,True
+TKT0072,AG035,Refund Request,Phone,High,Open,2026-08-27 06:00,,24,126,,True
+TKT0073,AG022,Product Inquiry,Phone,High,Closed,2026-03-11 13:00,2026-03-12 02:00,24,13,13,False
+TKT0074,AG038,Refund Request,Phone,Low,Closed,2026-02-02 19:00,2026-02-04 22:00,72,51,51,False
+TKT0075,AG025,Account Access,Email,Low,Closed,2026-02-04 14:00,2026-02-06 00:00,72,34,34,False
+TKT0076,AG017,Billing,Chat,Medium,Closed,2026-08-14 12:00,2026-08-15 15:00,48,27,27,False
+TKT0077,AG049,Billing,Email,Low,Closed,2026-03-31 07:00,2026-03-31 13:00,72,6,6,False
+TKT0078,AG037,Technical Support,Chat,Low,Closed,2026-02-09 07:00,2026-02-09 22:00,72,15,15,False
+TKT0079,AG046,Billing,Email,Medium,Closed,2026-02-12 19:00,2026-02-14 19:00,48,48,48,False
+TKT0080,AG026,Technical Support,Email,Critical,Closed,2026-01-07 09:00,2026-01-07 16:00,8,7,7,False
+TKT0081,AG050,Account Access,Phone,Medium,Open,2026-08-30 15:00,,48,45,,False
+TKT0082,AG043,Account Access,Email,Medium,Closed,2026-05-25 01:00,2026-05-26 05:00,48,28,28,False
+TKT0083,AG028,Account Access,Phone,Medium,Closed,2026-08-06 13:00,2026-08-09 03:00,48,62,62,True
+TKT0084,AG042,Account Access,Phone,High,Closed,2026-02-09 13:00,2026-02-10 06:00,24,17,17,False
+TKT0085,AG038,Account Access,Chat,High,Closed,2026-05-04 14:00,2026-05-05 14:00,24,24,24,False
+TKT0086,AG016,Product Inquiry,Phone,High,Open,2026-08-31 21:00,,24,15,,False
+TKT0087,AG032,Technical Support,Chat,Medium,Closed,2026-01-08 15:00,2026-01-11 15:00,48,72,72,True
+TKT0088,AG036,Billing,Phone,High,Closed,2026-08-14 19:00,2026-08-15 04:00,24,9,9,False
+TKT0089,AG045,Product Inquiry,Phone,High,Closed,2026-07-04 13:00,2026-07-04 21:00,24,8,8,False
+TKT0090,AG045,Technical Support,Chat,Medium,Closed,2026-01-05 02:00,2026-01-06 04:00,48,26,26,False
+TKT0091,AG036,Account Access,Chat,Medium,Closed,2026-05-22 16:00,2026-05-24 16:00,48,48,48,False
+TKT0092,AG021,Billing,Phone,Medium,Closed,2026-03-06 07:00,2026-03-06 20:00,48,13,13,False
+TKT0093,AG018,Refund Request,Phone,Medium,Closed,2026-02-17 06:00,2026-02-18 13:00,48,31,31,False
+TKT0094,AG015,Account Access,Email,Medium,Open,2026-08-29 17:00,,48,67,,True
+TKT0095,AG036,Account Access,Phone,Low,Closed,2026-02-02 08:00,2026-02-02 15:00,72,7,7,False
+TKT0096,AG037,Account Access,Chat,High,Closed,2026-07-12 15:00,2026-07-12 16:00,24,1,1,False
+TKT0097,AG008,Billing,Chat,Medium,Closed,2026-01-14 08:00,2026-01-18 22:00,48,110,110,True
+TKT0098,AG020,Billing,Email,Medium,Closed,2026-06-25 01:00,2026-06-26 14:00,48,37,37,False
+TKT0099,AG050,Refund Request,Chat,Low,Closed,2026-06-05 19:00,2026-06-10 00:00,72,101,101,True
+TKT0100,AG037,Refund Request,Email,Medium,Closed,2026-08-09 18:00,2026-08-13 10:00,48,88,88,True
+TKT0101,AG043,Billing,Email,Medium,Closed,2026-07-15 06:00,2026-07-15 23:00,48,17,17,False
+TKT0102,AG019,Billing,Email,Low,Closed,2026-02-10 00:00,2026-02-12 13:00,72,61,61,False
+TKT0103,AG017,Refund Request,Phone,Low,Closed,2026-08-09 14:00,2026-08-10 20:00,72,30,30,False
+TKT0104,AG018,Technical Support,Email,High,Closed,2026-01-30 17:00,2026-01-30 22:00,24,5,5,False
+TKT0105,AG029,Billing,Chat,Low,Closed,2026-06-02 23:00,2026-06-07 12:00,72,109,109,True
+TKT0106,AG006,Refund Request,Email,Medium,Closed,2026-03-11 16:00,2026-03-12 21:00,48,29,29,False
+TKT0107,AG044,Refund Request,Phone,High,Closed,2026-06-04 08:00,2026-06-04 16:00,24,8,8,False
+TKT0108,AG037,Billing,Email,Critical,Open,2026-08-31 10:00,,8,26,,True
+TKT0109,AG041,Product Inquiry,Email,Medium,Closed,2026-03-13 05:00,2026-03-17 13:00,48,104,104,True
+TKT0110,AG022,Product Inquiry,Phone,Medium,Closed,2026-03-24 21:00,2026-03-25 08:00,48,11,11,False
+TKT0111,AG021,Account Access,Chat,Medium,Closed,2026-04-13 17:00,2026-04-13 23:00,48,6,6,False
+TKT0112,AG043,Refund Request,Chat,Low,Closed,2026-08-10 16:00,2026-08-13 17:00,72,73,73,True
+TKT0113,AG049,Billing,Email,Medium,Closed,2026-04-03 19:00,2026-04-08 04:00,48,105,105,True
+TKT0114,AG008,Billing,Phone,Low,Closed,2026-03-15 14:00,2026-03-21 05:00,72,135,135,True
+TKT0115,AG027,Billing,Email,Medium,Closed,2026-02-10 09:00,2026-02-11 21:00,48,36,36,False
+TKT0116,AG042,Technical Support,Chat,Critical,Open,2026-08-31 20:00,,8,16,,True
+TKT0117,AG031,Technical Support,Chat,High,Closed,2026-06-30 08:00,2026-07-01 00:00,24,16,16,False
+TKT0118,AG005,Account Access,Chat,Medium,Closed,2026-06-03 16:00,2026-06-04 01:00,48,9,9,False
+TKT0119,AG038,Refund Request,Phone,Low,Closed,2026-03-10 00:00,2026-03-11 15:00,72,39,39,False
+TKT0120,AG049,Refund Request,Chat,Medium,Closed,2026-05-18 15:00,2026-05-20 03:00,48,36,36,False
+TKT0121,AG015,Product Inquiry,Email,Medium,Closed,2026-02-18 22:00,2026-02-19 23:00,48,25,25,False
+TKT0122,AG032,Billing,Email,Low,Closed,2026-07-27 12:00,2026-07-28 08:00,72,20,20,False
+TKT0123,AG007,Refund Request,Chat,Medium,Closed,2026-08-11 03:00,2026-08-15 12:00,48,105,105,True
+TKT0124,AG031,Account Access,Chat,Low,Closed,2026-08-11 20:00,2026-08-15 06:00,72,82,82,True
+TKT0125,AG025,Account Access,Phone,Medium,Closed,2026-01-21 10:00,2026-01-26 07:00,48,117,117,True
+TKT0126,AG016,Account Access,Email,Medium,Closed,2026-08-12 17:00,2026-08-12 22:00,48,5,5,False
+TKT0127,AG029,Technical Support,Phone,Medium,Closed,2026-01-26 20:00,2026-01-27 03:00,48,7,7,False
+TKT0128,AG028,Technical Support,Email,Low,Closed,2026-03-25 01:00,2026-03-27 01:00,72,48,48,False
+TKT0129,AG040,Product Inquiry,Phone,Medium,Closed,2026-07-22 05:00,2026-07-22 11:00,48,6,6,False
+TKT0130,AG017,Product Inquiry,Chat,Medium,Closed,2026-05-30 04:00,2026-05-31 21:00,48,41,41,False
+TKT0131,AG044,Refund Request,Email,Medium,Open,2026-08-29 17:00,,48,67,,True
+TKT0132,AG041,Product Inquiry,Phone,Low,Open,2026-08-25 21:00,,72,159,,True
+TKT0133,AG031,Billing,Email,Low,Open,2026-08-30 10:00,,72,50,,False
+TKT0134,AG026,Account Access,Email,Medium,Closed,2026-03-17 22:00,2026-03-19 17:00,48,43,43,False
+TKT0135,AG019,Technical Support,Phone,Medium,Closed,2026-07-10 01:00,2026-07-14 17:00,48,112,112,True
+TKT0136,AG050,Technical Support,Phone,High,Closed,2026-02-18 19:00,2026-02-19 19:00,24,24,24,False
+TKT0137,AG038,Account Access,Phone,Low,Closed,2026-01-11 09:00,2026-01-14 14:00,72,77,77,True
+TKT0138,AG012,Technical Support,Email,Low,Open,2026-08-30 06:00,,72,54,,False
+TKT0139,AG018,Technical Support,Chat,High,Open,2026-08-31 19:00,,24,17,,False
+TKT0140,AG048,Account Access,Email,High,Open,2026-08-27 22:00,,24,110,,True
+TKT0141,AG036,Account Access,Email,Medium,Closed,2026-07-13 07:00,2026-07-17 10:00,48,99,99,True
+TKT0142,AG048,Account Access,Phone,High,Closed,2026-05-18 03:00,2026-05-19 01:00,24,22,22,False
+TKT0143,AG002,Refund Request,Phone,Medium,Closed,2026-04-06 03:00,2026-04-07 10:00,48,31,31,False
+TKT0144,AG045,Account Access,Phone,Low,Closed,2026-06-15 02:00,2026-06-17 14:00,72,60,60,False
+TKT0145,AG007,Technical Support,Phone,Medium,Closed,2026-01-10 09:00,2026-01-13 00:00,48,63,63,True
+TKT0146,AG027,Refund Request,Phone,Low,Closed,2026-06-21 23:00,2026-06-24 21:00,72,70,70,False
+TKT0147,AG040,Product Inquiry,Chat,Medium,Open,2026-08-29 04:00,,48,80,,True
+TKT0148,AG007,Account Access,Phone,Low,Closed,2026-04-24 14:00,2026-04-29 13:00,72,119,119,True
+TKT0149,AG030,Billing,Phone,High,Closed,2026-01-16 12:00,2026-01-16 16:00,24,4,4,False
+TKT0150,AG009,Refund Request,Email,Low,Closed,2026-01-06 01:00,2026-01-10 09:00,72,104,104,True
+TKT0151,AG022,Technical Support,Phone,Low,Closed,2026-02-23 18:00,2026-02-25 00:00,72,30,30,False
+TKT0152,AG035,Account Access,Email,Low,Open,2026-08-31 19:00,,72,17,,False
+TKT0153,AG016,Refund Request,Chat,Low,Open,2026-08-30 14:00,,72,46,,False
+TKT0154,AG048,Billing,Chat,Low,Closed,2026-02-02 23:00,2026-02-03 14:00,72,15,15,False
+TKT0155,AG040,Billing,Phone,Medium,Closed,2026-06-01 03:00,2026-06-01 18:00,48,15,15,False
+TKT0156,AG042,Billing,Email,High,Open,2026-08-30 06:00,,24,54,,True
+TKT0157,AG032,Product Inquiry,Email,Critical,Open,2026-09-01 11:00,,8,1,,False
+TKT0158,AG041,Refund Request,Phone,High,Closed,2026-02-07 02:00,2026-02-07 22:00,24,20,20,False
+TKT0159,AG039,Product Inquiry,Email,Medium,Closed,2026-06-02 16:00,2026-06-04 01:00,48,33,33,False
+TKT0160,AG047,Technical Support,Chat,High,Closed,2026-06-17 20:00,2026-06-21 19:00,24,95,95,True
+TKT0161,AG007,Account Access,Chat,Medium,Closed,2026-03-28 14:00,2026-03-30 13:00,48,47,47,False
+TKT0162,AG006,Billing,Email,Low,Closed,2026-02-09 21:00,2026-02-13 06:00,72,81,81,True
+TKT0163,AG036,Refund Request,Chat,Medium,Closed,2026-04-06 04:00,2026-04-07 18:00,48,38,38,False
+TKT0164,AG047,Billing,Chat,Medium,Closed,2026-08-12 21:00,2026-08-17 04:00,48,103,103,True
+TKT0165,AG031,Technical Support,Email,Medium,Closed,2026-05-28 16:00,2026-05-30 11:00,48,43,43,False
+TKT0166,AG036,Refund Request,Phone,Medium,Closed,2026-01-30 08:00,2026-01-31 12:00,48,28,28,False
+TKT0167,AG002,Technical Support,Chat,Medium,Closed,2026-06-05 21:00,2026-06-09 08:00,48,83,83,True
+TKT0168,AG037,Product Inquiry,Email,Medium,Closed,2026-03-28 11:00,2026-03-28 21:00,48,10,10,False
+TKT0169,AG025,Product Inquiry,Chat,Low,Closed,2026-01-08 02:00,2026-01-09 06:00,72,28,28,False
+TKT0170,AG004,Technical Support,Email,Low,Closed,2026-07-04 10:00,2026-07-07 21:00,72,83,83,True
+TKT0171,AG032,Refund Request,Chat,High,Closed,2026-01-21 08:00,2026-01-21 22:00,24,14,14,False
+TKT0172,AG019,Refund Request,Chat,Medium,Closed,2026-05-12 03:00,2026-05-12 11:00,48,8,8,False
+TKT0173,AG001,Technical Support,Chat,Medium,Closed,2026-02-26 12:00,2026-02-28 20:00,48,56,56,True
+TKT0174,AG001,Product Inquiry,Phone,High,Closed,2026-07-15 08:00,2026-07-15 12:00,24,4,4,False
+TKT0175,AG043,Account Access,Email,Medium,Closed,2026-05-17 22:00,2026-05-19 10:00,48,36,36,False
+TKT0176,AG021,Refund Request,Chat,Medium,Closed,2026-04-22 00:00,2026-04-22 05:00,48,5,5,False
+TKT0177,AG021,Technical Support,Phone,Medium,Closed,2026-04-17 09:00,2026-04-17 11:00,48,2,2,False
+TKT0178,AG016,Product Inquiry,Phone,Medium,Closed,2026-04-03 02:00,2026-04-03 09:00,48,7,7,False
+TKT0179,AG022,Technical Support,Email,Medium,Closed,2026-08-11 09:00,2026-08-12 00:00,48,15,15,False
+TKT0180,AG023,Technical Support,Email,Medium,Closed,2026-05-11 06:00,2026-05-15 03:00,48,93,93,True
+TKT0181,AG012,Product Inquiry,Chat,Low,Closed,2026-02-14 19:00,2026-02-15 05:00,72,10,10,False
+TKT0182,AG041,Account Access,Email,High,Closed,2026-04-25 21:00,2026-04-28 15:00,24,66,66,True
+TKT0183,AG023,Refund Request,Email,Medium,Closed,2026-06-11 09:00,2026-06-13 17:00,48,56,56,True
+TKT0184,AG042,Billing,Phone,Low,Closed,2026-01-15 11:00,2026-01-18 21:00,72,82,82,True
+TKT0185,AG029,Refund Request,Phone,Medium,Closed,2026-05-29 17:00,2026-05-31 23:00,48,54,54,True
+TKT0186,AG007,Account Access,Phone,Low,Closed,2026-05-09 04:00,2026-05-14 14:00,72,130,130,True
+TKT0187,AG034,Refund Request,Phone,Low,Closed,2026-01-11 07:00,2026-01-13 16:00,72,57,57,False
+TKT0188,AG044,Refund Request,Email,Low,Closed,2026-03-14 12:00,2026-03-16 08:00,72,44,44,False
+TKT0189,AG025,Account Access,Chat,High,Closed,2026-01-17 10:00,2026-01-18 08:00,24,22,22,False
+TKT0190,AG043,Technical Support,Chat,Medium,Closed,2026-06-04 04:00,2026-06-05 18:00,48,38,38,False
+TKT0191,AG020,Refund Request,Chat,Low,Closed,2026-06-19 12:00,2026-06-19 23:00,72,11,11,False
+TKT0192,AG044,Refund Request,Email,Medium,Closed,2026-02-02 21:00,2026-02-04 21:00,48,48,48,False
+TKT0193,AG014,Account Access,Chat,Medium,Closed,2026-04-03 00:00,2026-04-03 12:00,48,12,12,False
+TKT0194,AG007,Refund Request,Phone,Low,Open,2026-08-30 22:00,,72,38,,False
+TKT0195,AG050,Refund Request,Email,High,Open,2026-09-01 01:00,,24,11,,False
+TKT0196,AG047,Product Inquiry,Email,Medium,Closed,2026-02-16 22:00,2026-02-19 20:00,48,70,70,True
+TKT0197,AG029,Technical Support,Phone,Medium,Closed,2026-03-02 14:00,2026-03-04 14:00,48,48,48,False
+TKT0198,AG024,Refund Request,Chat,Low,Open,2026-08-28 23:00,,72,85,,True
+TKT0199,AG013,Refund Request,Email,Medium,Closed,2026-04-08 16:00,2026-04-09 03:00,48,11,11,False
+TKT0200,AG046,Refund Request,Email,High,Closed,2026-05-04 11:00,2026-05-04 15:00,24,4,4,False
+TKT0201,AG028,Billing,Email,Low,Closed,2026-03-11 14:00,2026-03-15 09:00,72,91,91,True
+TKT0202,AG004,Product Inquiry,Phone,High,Open,2026-08-27 06:00,,24,126,,True
+TKT0203,AG007,Account Access,Email,Medium,Closed,2026-01-21 11:00,2026-01-22 08:00,48,21,21,False
+TKT0204,AG049,Product Inquiry,Chat,Low,Closed,2026-08-01 15:00,2026-08-02 09:00,72,18,18,False
+TKT0205,AG010,Refund Request,Phone,Medium,Open,2026-08-31 22:00,,48,14,,False
+TKT0206,AG004,Technical Support,Chat,Medium,Closed,2026-07-18 09:00,2026-07-18 17:00,48,8,8,False
+TKT0207,AG039,Refund Request,Email,Medium,Closed,2026-01-17 03:00,2026-01-21 19:00,48,112,112,True
+TKT0208,AG040,Account Access,Email,Medium,Closed,2026-07-03 04:00,2026-07-03 05:00,48,1,1,False
+TKT0209,AG005,Refund Request,Phone,Medium,Closed,2026-06-21 02:00,2026-06-22 02:00,48,24,24,False
+TKT0210,AG031,Billing,Phone,Medium,Open,2026-08-29 11:00,,48,73,,True
+TKT0211,AG023,Technical Support,Phone,Medium,Closed,2026-07-11 00:00,2026-07-11 05:00,48,5,5,False
+TKT0212,AG003,Account Access,Phone,Medium,Closed,2026-05-29 23:00,2026-06-01 17:00,48,66,66,True
+TKT0213,AG041,Technical Support,Email,Low,Closed,2026-08-01 21:00,2026-08-04 11:00,72,62,62,False
+TKT0214,AG013,Billing,Chat,Low,Closed,2026-04-28 01:00,2026-04-28 07:00,72,6,6,False
+TKT0215,AG049,Technical Support,Chat,High,Closed,2026-07-28 17:00,2026-07-28 19:00,24,2,2,False
+TKT0216,AG024,Product Inquiry,Chat,Medium,Closed,2026-08-10 20:00,2026-08-11 04:00,48,8,8,False
+TKT0217,AG032,Product Inquiry,Chat,Medium,Open,2026-09-01 00:00,,48,12,,False
+TKT0218,AG028,Refund Request,Email,High,Closed,2026-07-25 02:00,2026-07-25 05:00,24,3,3,False
+TKT0219,AG029,Refund Request,Phone,Medium,Closed,2026-01-21 10:00,2026-01-22 06:00,48,20,20,False
+TKT0220,AG040,Product Inquiry,Chat,Medium,Closed,2026-03-31 14:00,2026-04-01 13:00,48,23,23,False
+TKT0221,AG024,Refund Request,Phone,Medium,Closed,2026-01-15 02:00,2026-01-16 04:00,48,26,26,False
+TKT0222,AG044,Product Inquiry,Email,Medium,Open,2026-08-30 21:00,,48,39,,False
+TKT0223,AG039,Technical Support,Phone,Low,Closed,2026-06-15 11:00,2026-06-15 16:00,72,5,5,False
+TKT0224,AG024,Product Inquiry,Chat,Medium,Closed,2026-04-24 02:00,2026-04-25 12:00,48,34,34,False
+TKT0225,AG034,Product Inquiry,Phone,Medium,Closed,2026-01-30 00:00,2026-01-31 08:00,48,32,32,False
+TKT0226,AG045,Product Inquiry,Email,Low,Closed,2026-06-30 14:00,2026-07-02 03:00,72,37,37,False
+TKT0227,AG029,Billing,Phone,Low,Open,2026-08-27 14:00,,72,118,,True
+TKT0228,AG005,Refund Request,Phone,Critical,Open,2026-08-30 06:00,,8,54,,True
+TKT0229,AG024,Refund Request,Email,Low,Closed,2026-02-10 22:00,2026-02-11 21:00,72,23,23,False
+TKT0230,AG024,Refund Request,Phone,Low,Closed,2026-02-05 07:00,2026-02-08 11:00,72,76,76,True
+TKT0231,AG005,Account Access,Chat,Medium,Closed,2026-05-22 04:00,2026-05-22 10:00,48,6,6,False
+TKT0232,AG009,Account Access,Phone,Critical,Closed,2026-05-15 13:00,2026-05-16 07:00,8,18,18,True
+TKT0233,AG041,Refund Request,Email,Low,Closed,2026-05-13 11:00,2026-05-16 10:00,72,71,71,False
+TKT0234,AG010,Account Access,Email,High,Closed,2026-05-09 01:00,2026-05-12 20:00,24,91,91,True
+TKT0235,AG019,Billing,Chat,Low,Open,2026-08-29 17:00,,72,67,,False
+TKT0236,AG040,Refund Request,Email,Low,Open,2026-08-30 21:00,,72,39,,False
+TKT0237,AG047,Refund Request,Chat,Medium,Closed,2026-05-29 04:00,2026-05-30 20:00,48,40,40,False
+TKT0238,AG050,Refund Request,Chat,High,Closed,2026-07-31 00:00,2026-07-31 21:00,24,21,21,False
+TKT0239,AG041,Refund Request,Chat,Medium,Closed,2026-04-17 19:00,2026-04-19 03:00,48,32,32,False
+TKT0240,AG005,Billing,Email,Medium,Closed,2026-03-04 21:00,2026-03-06 03:00,48,30,30,False
+TKT0241,AG046,Account Access,Phone,Medium,Closed,2026-02-22 10:00,2026-02-23 07:00,48,21,21,False
+TKT0242,AG036,Billing,Chat,Critical,Closed,2026-04-13 04:00,2026-04-16 06:00,8,74,74,True
+TKT0243,AG019,Product Inquiry,Phone,Low,Closed,2026-04-26 07:00,2026-04-26 14:00,72,7,7,False
+TKT0244,AG021,Refund Request,Phone,Medium,Open,2026-08-24 03:00,,48,201,,True
+TKT0245,AG032,Billing,Email,Low,Closed,2026-05-08 16:00,2026-05-10 08:00,72,40,40,False
+TKT0246,AG004,Account Access,Chat,High,Closed,2026-03-03 06:00,2026-03-03 08:00,24,2,2,False
+TKT0247,AG035,Billing,Email,Medium,Open,2026-08-29 17:00,,48,67,,True
+TKT0248,AG024,Billing,Chat,Medium,Open,2026-08-29 10:00,,48,74,,True
+TKT0249,AG033,Product Inquiry,Phone,Low,Closed,2026-04-03 17:00,2026-04-05 19:00,72,50,50,False
+TKT0250,AG009,Billing,Chat,Low,Open,2026-08-29 04:00,,72,80,,True
+TKT0251,AG049,Technical Support,Email,Medium,Open,2026-08-29 12:00,,48,72,,True
+TKT0252,AG022,Product Inquiry,Phone,Medium,Closed,2026-01-11 01:00,2026-01-12 23:00,48,46,46,False
+TKT0253,AG021,Technical Support,Chat,Medium,Closed,2026-05-12 04:00,2026-05-13 20:00,48,40,40,False
+TKT0254,AG046,Refund Request,Chat,Critical,Closed,2026-03-18 18:00,2026-03-19 02:00,8,8,8,False
+TKT0255,AG038,Account Access,Phone,Medium,Closed,2026-03-26 21:00,2026-03-28 00:00,48,27,27,False
+TKT0256,AG050,Refund Request,Phone,High,Closed,2026-06-02 15:00,2026-06-03 12:00,24,21,21,False
+TKT0257,AG010,Technical Support,Email,Low,Closed,2026-05-03 05:00,2026-05-05 06:00,72,49,49,False
+TKT0258,AG010,Product Inquiry,Phone,Medium,Closed,2026-02-18 00:00,2026-02-19 03:00,48,27,27,False
+TKT0259,AG046,Technical Support,Phone,Low,Closed,2026-06-06 15:00,2026-06-09 23:00,72,80,80,True
+TKT0260,AG012,Product Inquiry,Phone,Low,Closed,2026-06-19 15:00,2026-06-21 08:00,72,41,41,False
+TKT0261,AG040,Product Inquiry,Email,Low,Closed,2026-07-17 23:00,2026-07-19 09:00,72,34,34,False
+TKT0262,AG050,Account Access,Phone,Critical,Closed,2026-03-18 07:00,2026-03-20 06:00,8,47,47,True
+TKT0263,AG019,Billing,Phone,Low,Closed,2026-03-23 15:00,2026-03-25 03:00,72,36,36,False
+TKT0264,AG019,Billing,Chat,Medium,Closed,2026-04-12 11:00,2026-04-15 06:00,48,67,67,True
+TKT0265,AG014,Technical Support,Phone,Critical,Closed,2026-04-24 20:00,2026-04-25 04:00,8,8,8,False
+TKT0266,AG016,Billing,Phone,Low,Closed,2026-03-11 04:00,2026-03-12 11:00,72,31,31,False
+TKT0267,AG046,Product Inquiry,Email,High,Closed,2026-03-01 01:00,2026-03-01 12:00,24,11,11,False
+TKT0268,AG031,Technical Support,Chat,Medium,Closed,2026-05-21 05:00,2026-05-22 12:00,48,31,31,False
+TKT0269,AG035,Billing,Email,Low,Closed,2026-07-16 02:00,2026-07-17 08:00,72,30,30,False
+TKT0270,AG026,Product Inquiry,Email,Medium,Open,2026-08-28 07:00,,48,101,,True
+TKT0271,AG003,Billing,Chat,High,Open,2026-08-24 19:00,,24,185,,True
+TKT0272,AG035,Refund Request,Chat,Medium,Closed,2026-03-27 09:00,2026-03-29 03:00,48,42,42,False
+TKT0273,AG022,Technical Support,Phone,High,Closed,2026-05-10 14:00,2026-05-10 18:00,24,4,4,False
+TKT0274,AG037,Technical Support,Email,Medium,Closed,2026-02-17 00:00,2026-02-17 19:00,48,19,19,False
+TKT0275,AG026,Billing,Email,Medium,Closed,2026-04-14 13:00,2026-04-14 19:00,48,6,6,False
+TKT0276,AG029,Account Access,Chat,Critical,Closed,2026-03-05 00:00,2026-03-05 04:00,8,4,4,False
+TKT0277,AG004,Billing,Chat,Low,Closed,2026-01-03 08:00,2026-01-04 15:00,72,31,31,False
+TKT0278,AG041,Account Access,Chat,Low,Closed,2026-05-09 22:00,2026-05-13 14:00,72,88,88,True
+TKT0279,AG039,Account Access,Chat,Medium,Closed,2026-02-04 15:00,2026-02-06 15:00,48,48,48,False
+TKT0280,AG014,Technical Support,Phone,Medium,Open,2026-08-28 17:00,,48,91,,True
+TKT0281,AG034,Account Access,Email,High,Open,2026-08-31 21:00,,24,15,,False
+TKT0282,AG037,Refund Request,Email,High,Closed,2026-08-01 17:00,2026-08-03 19:00,24,50,50,True
+TKT0283,AG046,Refund Request,Chat,Low,Open,2026-08-31 09:00,,72,27,,False
+TKT0284,AG027,Product Inquiry,Phone,Low,Closed,2026-07-27 01:00,2026-07-29 19:00,72,66,66,False
+TKT0285,AG017,Billing,Phone,Low,Closed,2026-07-26 09:00,2026-07-28 12:00,72,51,51,False
+TKT0286,AG004,Billing,Chat,Low,Closed,2026-04-19 11:00,2026-04-22 09:00,72,70,70,False
+TKT0287,AG024,Product Inquiry,Chat,Low,Closed,2026-07-16 04:00,2026-07-21 10:00,72,126,126,True
+TKT0288,AG043,Refund Request,Email,High,Open,2026-08-31 14:00,,24,22,,False
+TKT0289,AG047,Technical Support,Email,Medium,Closed,2026-02-15 17:00,2026-02-16 02:00,48,9,9,False
+TKT0290,AG035,Product Inquiry,Phone,High,Open,2026-08-29 13:00,,24,71,,True
+TKT0291,AG047,Billing,Email,Medium,Closed,2026-04-28 11:00,2026-04-29 00:00,48,13,13,False
+TKT0292,AG007,Refund Request,Email,High,Closed,2026-07-16 00:00,2026-07-16 03:00,24,3,3,False
+TKT0293,AG026,Product Inquiry,Email,Medium,Closed,2026-08-12 01:00,2026-08-12 04:00,48,3,3,False
+TKT0294,AG015,Refund Request,Chat,Medium,Closed,2026-07-18 01:00,2026-07-18 20:00,48,19,19,False
+TKT0295,AG043,Refund Request,Email,Medium,Closed,2026-07-29 10:00,2026-07-29 20:00,48,10,10,False
+TKT0296,AG041,Product Inquiry,Phone,Medium,Closed,2026-05-23 18:00,2026-05-26 17:00,48,71,71,True
+TKT0297,AG025,Refund Request,Chat,Medium,Open,2026-08-24 22:00,,48,182,,True
+TKT0298,AG031,Technical Support,Email,Medium,Closed,2026-03-18 12:00,2026-03-19 23:00,48,35,35,False
+TKT0299,AG027,Product Inquiry,Phone,Low,Closed,2026-07-26 14:00,2026-08-01 14:00,72,144,144,True
+TKT0300,AG029,Account Access,Email,Medium,Closed,2026-03-07 06:00,2026-03-07 12:00,48,6,6,False
+TKT0301,AG044,Refund Request,Phone,Medium,Open,2026-08-31 11:00,,48,25,,False
+TKT0302,AG014,Product Inquiry,Email,Low,Closed,2026-07-25 18:00,2026-07-28 18:00,72,72,72,False
+TKT0303,AG048,Product Inquiry,Email,High,Closed,2026-01-04 06:00,2026-01-05 22:00,24,40,40,True
+TKT0304,AG025,Product Inquiry,Phone,Medium,Closed,2026-04-12 07:00,2026-04-13 02:00,48,19,19,False
+TKT0305,AG007,Product Inquiry,Chat,Medium,Closed,2026-04-03 16:00,2026-04-08 04:00,48,108,108,True
+TKT0306,AG048,Technical Support,Email,High,Closed,2026-04-16 01:00,2026-04-16 09:00,24,8,8,False
+TKT0307,AG019,Technical Support,Email,Low,Open,2026-08-28 09:00,,72,99,,True
+TKT0308,AG017,Product Inquiry,Phone,Low,Closed,2026-08-02 07:00,2026-08-04 03:00,72,44,44,False
+TKT0309,AG009,Refund Request,Chat,Medium,Closed,2026-02-13 23:00,2026-02-16 21:00,48,70,70,True
+TKT0310,AG034,Billing,Email,Low,Open,2026-08-27 04:00,,72,128,,True
+TKT0311,AG015,Billing,Phone,High,Closed,2026-07-15 00:00,2026-07-15 21:00,24,21,21,False
+TKT0312,AG043,Product Inquiry,Email,Low,Closed,2026-04-27 11:00,2026-04-30 01:00,72,62,62,False
+TKT0313,AG035,Account Access,Email,Low,Closed,2026-01-04 00:00,2026-01-05 12:00,72,36,36,False
+TKT0314,AG034,Technical Support,Email,Medium,Closed,2026-04-21 05:00,2026-04-21 12:00,48,7,7,False
+TKT0315,AG006,Account Access,Chat,Low,Closed,2026-07-28 11:00,2026-07-30 14:00,72,51,51,False
+TKT0316,AG042,Billing,Email,Medium,Closed,2026-06-28 07:00,2026-06-28 13:00,48,6,6,False
+TKT0317,AG011,Billing,Chat,Medium,Closed,2026-05-02 01:00,2026-05-03 22:00,48,45,45,False
+TKT0318,AG034,Billing,Email,High,Closed,2026-03-26 18:00,2026-03-28 07:00,24,37,37,True
+TKT0319,AG018,Billing,Email,Low,Open,2026-08-24 23:00,,72,181,,True
+TKT0320,AG021,Billing,Email,Medium,Closed,2026-05-20 18:00,2026-05-21 06:00,48,12,12,False
+TKT0321,AG011,Refund Request,Email,Medium,Closed,2026-07-02 12:00,2026-07-06 03:00,48,87,87,True
+TKT0322,AG022,Product Inquiry,Phone,Medium,Open,2026-08-29 01:00,,48,83,,True
+TKT0323,AG048,Account Access,Email,Low,Open,2026-08-28 03:00,,72,105,,True
+TKT0324,AG050,Account Access,Email,Low,Closed,2026-01-20 10:00,2026-01-22 13:00,72,51,51,False
+TKT0325,AG025,Product Inquiry,Email,Medium,Closed,2026-04-26 15:00,2026-04-28 03:00,48,36,36,False
+TKT0326,AG046,Billing,Email,Medium,Closed,2026-01-22 19:00,2026-01-23 11:00,48,16,16,False
+TKT0327,AG021,Account Access,Email,Low,Closed,2026-07-20 20:00,2026-07-22 22:00,72,50,50,False
+TKT0328,AG007,Technical Support,Email,Low,Open,2026-08-31 01:00,,72,35,,False
+TKT0329,AG006,Account Access,Phone,Low,Closed,2026-05-23 16:00,2026-05-23 20:00,72,4,4,False
+TKT0330,AG025,Billing,Phone,Low,Closed,2026-03-25 12:00,2026-03-27 17:00,72,53,53,False
+TKT0331,AG034,Technical Support,Phone,High,Open,2026-08-26 10:00,,24,146,,True
+TKT0332,AG011,Product Inquiry,Chat,Medium,Closed,2026-03-19 08:00,2026-03-19 13:00,48,5,5,False
+TKT0333,AG047,Product Inquiry,Phone,Medium,Closed,2026-01-20 11:00,2026-01-21 03:00,48,16,16,False
+TKT0334,AG022,Refund Request,Chat,Medium,Closed,2026-02-04 09:00,2026-02-05 11:00,48,26,26,False
+TKT0335,AG020,Account Access,Phone,High,Closed,2026-03-27 13:00,2026-03-29 07:00,24,42,42,True
+TKT0336,AG019,Product Inquiry,Phone,High,Closed,2026-03-22 05:00,2026-03-24 22:00,24,65,65,True
+TKT0337,AG013,Refund Request,Phone,High,Closed,2026-03-13 12:00,2026-03-14 07:00,24,19,19,False
+TKT0338,AG029,Account Access,Phone,Low,Closed,2026-01-07 23:00,2026-01-09 02:00,72,27,27,False
+TKT0339,AG032,Technical Support,Phone,Low,Open,2026-08-27 16:00,,72,116,,True
+TKT0340,AG005,Product Inquiry,Phone,Low,Closed,2026-02-09 22:00,2026-02-11 23:00,72,49,49,False
+TKT0341,AG024,Refund Request,Phone,Medium,Closed,2026-05-10 22:00,2026-05-11 01:00,48,3,3,False
+TKT0342,AG011,Refund Request,Email,Medium,Closed,2026-07-16 07:00,2026-07-17 06:00,48,23,23,False
+TKT0343,AG028,Billing,Email,Medium,Closed,2026-06-15 12:00,2026-06-19 07:00,48,91,91,True
+TKT0344,AG029,Account Access,Chat,Low,Closed,2026-07-11 16:00,2026-07-12 21:00,72,29,29,False
+TKT0345,AG031,Billing,Chat,Medium,Closed,2026-06-26 16:00,2026-06-26 18:00,48,2,2,False
+TKT0346,AG010,Account Access,Chat,Medium,Open,2026-08-30 13:00,,48,47,,False
+TKT0347,AG029,Product Inquiry,Chat,Low,Closed,2026-05-14 15:00,2026-05-15 04:00,72,13,13,False
+TKT0348,AG042,Billing,Phone,Low,Closed,2026-07-01 03:00,2026-07-02 23:00,72,44,44,False
+TKT0349,AG012,Refund Request,Email,High,Open,2026-08-30 02:00,,24,58,,True
+TKT0350,AG012,Product Inquiry,Chat,Low,Closed,2026-04-29 07:00,2026-05-03 07:00,72,96,96,True
+TKT0351,AG001,Technical Support,Email,Low,Closed,2026-02-20 14:00,2026-02-22 16:00,72,50,50,False
+TKT0352,AG012,Account Access,Chat,Low,Closed,2026-07-23 02:00,2026-07-25 23:00,72,69,69,False
+TKT0353,AG039,Product Inquiry,Phone,Low,Closed,2026-06-21 15:00,2026-06-23 08:00,72,41,41,False
+TKT0354,AG046,Account Access,Phone,Medium,Closed,2026-04-01 14:00,2026-04-03 10:00,48,44,44,False
+TKT0355,AG012,Account Access,Phone,Medium,Closed,2026-03-22 03:00,2026-03-22 11:00,48,8,8,False
+TKT0356,AG012,Product Inquiry,Phone,Low,Closed,2026-06-02 04:00,2026-06-04 11:00,72,55,55,False
+TKT0357,AG036,Technical Support,Chat,Medium,Open,2026-08-27 13:00,,48,119,,True
+TKT0358,AG001,Product Inquiry,Email,Low,Closed,2026-08-04 14:00,2026-08-06 12:00,72,46,46,False
+TKT0359,AG044,Product Inquiry,Chat,Low,Closed,2026-05-24 16:00,2026-05-26 21:00,72,53,53,False
+TKT0360,AG019,Billing,Chat,Medium,Closed,2026-02-12 02:00,2026-02-12 17:00,48,15,15,False
+TKT0361,AG036,Refund Request,Email,Low,Closed,2026-07-19 14:00,2026-07-22 06:00,72,64,64,False
+TKT0362,AG049,Product Inquiry,Phone,Medium,Closed,2026-05-20 11:00,2026-05-20 14:00,48,3,3,False
+TKT0363,AG003,Product Inquiry,Chat,Low,Closed,2026-07-08 20:00,2026-07-13 11:00,72,111,111,True
+TKT0364,AG014,Refund Request,Phone,Low,Closed,2026-04-23 03:00,2026-04-27 10:00,72,103,103,True
+TKT0365,AG014,Technical Support,Email,Medium,Closed,2026-06-11 13:00,2026-06-11 22:00,48,9,9,False
+TKT0366,AG019,Account Access,Phone,Medium,Closed,2026-06-02 17:00,2026-06-04 15:00,48,46,46,False
+TKT0367,AG007,Technical Support,Chat,Low,Open,2026-08-23 21:00,,72,207,,True
+TKT0368,AG045,Technical Support,Email,High,Open,2026-08-28 19:00,,24,89,,True
+TKT0369,AG037,Account Access,Phone,Low,Closed,2026-03-05 21:00,2026-03-06 16:00,72,19,19,False
+TKT0370,AG018,Account Access,Chat,Medium,Closed,2026-06-12 02:00,2026-06-14 02:00,48,48,48,False
+TKT0371,AG041,Account Access,Email,Critical,Closed,2026-01-01 23:00,2026-01-02 07:00,8,8,8,False
+TKT0372,AG019,Account Access,Phone,High,Closed,2026-04-20 06:00,2026-04-20 17:00,24,11,11,False
+TKT0373,AG003,Billing,Phone,Medium,Closed,2026-05-05 10:00,2026-05-07 17:00,48,55,55,True
+TKT0374,AG028,Technical Support,Phone,High,Closed,2026-02-01 05:00,2026-02-01 06:00,24,1,1,False
+TKT0375,AG006,Account Access,Chat,High,Open,2026-09-01 03:00,,24,9,,False
+TKT0376,AG047,Technical Support,Chat,Low,Closed,2026-06-16 05:00,2026-06-17 21:00,72,40,40,False
+TKT0377,AG038,Technical Support,Phone,Medium,Closed,2026-01-01 06:00,2026-01-01 15:00,48,9,9,False
+TKT0378,AG045,Technical Support,Chat,Medium,Closed,2026-06-28 10:00,2026-07-02 17:00,48,103,103,True
+TKT0379,AG020,Technical Support,Chat,Low,Closed,2026-07-07 03:00,2026-07-09 03:00,72,48,48,False
+TKT0380,AG005,Refund Request,Phone,High,Closed,2026-02-04 20:00,2026-02-06 15:00,24,43,43,True
+TKT0381,AG027,Refund Request,Phone,Low,Closed,2026-04-23 11:00,2026-04-24 07:00,72,20,20,False
+TKT0382,AG038,Product Inquiry,Chat,Medium,Closed,2026-08-18 03:00,2026-08-18 11:00,48,8,8,False
+TKT0383,AG016,Refund Request,Phone,Critical,Closed,2026-02-05 07:00,2026-02-05 09:00,8,2,2,False
+TKT0384,AG020,Technical Support,Phone,Medium,Closed,2026-07-19 22:00,2026-07-21 17:00,48,43,43,False
+TKT0385,AG032,Product Inquiry,Email,Medium,Closed,2026-04-11 09:00,2026-04-12 01:00,48,16,16,False
+TKT0386,AG024,Account Access,Email,Low,Closed,2026-01-19 16:00,2026-01-22 18:00,72,74,74,True
+TKT0387,AG044,Technical Support,Chat,Medium,Open,2026-08-31 01:00,,48,35,,False
+TKT0388,AG014,Billing,Email,Critical,Closed,2026-01-05 18:00,2026-01-05 23:00,8,5,5,False
+TKT0389,AG028,Product Inquiry,Email,High,Closed,2026-03-15 20:00,2026-03-16 10:00,24,14,14,False
+TKT0390,AG033,Technical Support,Email,Medium,Closed,2026-02-09 08:00,2026-02-09 14:00,48,6,6,False
+TKT0391,AG020,Product Inquiry,Phone,Medium,Closed,2026-06-12 20:00,2026-06-13 01:00,48,5,5,False
+TKT0392,AG030,Refund Request,Phone,Critical,Closed,2026-03-04 02:00,2026-03-05 01:00,8,23,23,True
+TKT0393,AG046,Technical Support,Phone,Low,Closed,2026-06-18 23:00,2026-06-19 01:00,72,2,2,False
+TKT0394,AG011,Account Access,Email,Low,Closed,2026-03-30 16:00,2026-04-01 02:00,72,34,34,False
+TKT0395,AG050,Billing,Chat,Medium,Open,2026-08-30 04:00,,48,56,,True
+TKT0396,AG041,Billing,Chat,High,Closed,2026-01-17 08:00,2026-01-18 03:00,24,19,19,False
+TKT0397,AG017,Billing,Phone,Medium,Closed,2026-05-08 18:00,2026-05-09 05:00,48,11,11,False
+TKT0398,AG016,Billing,Chat,Medium,Closed,2026-07-09 16:00,2026-07-09 17:00,48,1,1,False
+TKT0399,AG036,Product Inquiry,Email,Medium,Open,2026-09-01 09:00,,48,3,,False
+TKT0400,AG037,Account Access,Email,Low,Closed,2026-07-04 10:00,2026-07-04 20:00,72,10,10,False
+TKT0401,AG003,Product Inquiry,Email,Medium,Open,2026-08-31 02:00,,48,34,,False
+TKT0402,AG021,Billing,Phone,High,Open,2026-08-30 16:00,,24,44,,True
+TKT0403,AG030,Account Access,Phone,Medium,Closed,2026-03-16 18:00,2026-03-20 02:00,48,80,80,True
+TKT0404,AG035,Technical Support,Email,Critical,Open,2026-08-30 05:00,,8,55,,True
+TKT0405,AG022,Billing,Phone,Low,Closed,2026-03-01 17:00,2026-03-01 19:00,72,2,2,False
+TKT0406,AG027,Product Inquiry,Email,Medium,Closed,2026-03-20 03:00,2026-03-20 19:00,48,16,16,False
+TKT0407,AG034,Product Inquiry,Phone,Critical,Closed,2026-03-13 02:00,2026-03-13 06:00,8,4,4,False
+TKT0408,AG009,Product Inquiry,Email,High,Closed,2026-07-11 02:00,2026-07-11 19:00,24,17,17,False
+TKT0409,AG021,Product Inquiry,Phone,Medium,Closed,2026-06-19 04:00,2026-06-19 21:00,48,17,17,False
+TKT0410,AG009,Refund Request,Email,High,Closed,2026-04-26 08:00,2026-04-26 15:00,24,7,7,False
+TKT0411,AG023,Technical Support,Chat,Low,Closed,2026-04-30 10:00,2026-05-03 07:00,72,69,69,False
+TKT0412,AG046,Refund Request,Email,Low,Closed,2026-01-31 02:00,2026-02-01 17:00,72,39,39,False
+TKT0413,AG023,Product Inquiry,Phone,Low,Open,2026-08-31 04:00,,72,32,,False
+TKT0414,AG029,Refund Request,Phone,Low,Closed,2026-07-29 05:00,2026-07-31 09:00,72,52,52,False
+TKT0415,AG050,Technical Support,Email,Medium,Closed,2026-01-27 04:00,2026-01-27 08:00,48,4,4,False
+TKT0416,AG038,Refund Request,Chat,Low,Closed,2026-06-25 20:00,2026-06-29 07:00,72,83,83,True
+TKT0417,AG009,Billing,Chat,High,Closed,2026-01-17 06:00,2026-01-20 15:00,24,81,81,True
+TKT0418,AG047,Product Inquiry,Chat,Low,Open,2026-08-30 04:00,,72,56,,False
+TKT0419,AG018,Account Access,Chat,Low,Closed,2026-02-14 11:00,2026-02-15 11:00,72,24,24,False
+TKT0420,AG032,Product Inquiry,Phone,High,Closed,2026-06-08 19:00,2026-06-09 05:00,24,10,10,False
+TKT0421,AG034,Technical Support,Phone,Medium,Closed,2026-04-09 04:00,2026-04-10 22:00,48,42,42,False
+TKT0422,AG031,Refund Request,Chat,Critical,Closed,2026-01-05 12:00,2026-01-07 18:00,8,54,54,True
+TKT0423,AG021,Refund Request,Email,Low,Closed,2026-03-24 12:00,2026-03-24 16:00,72,4,4,False
+TKT0424,AG034,Account Access,Phone,Low,Closed,2026-03-13 01:00,2026-03-18 14:00,72,133,133,True
+TKT0425,AG016,Account Access,Phone,Critical,Open,2026-09-01 06:00,,8,6,,False
+TKT0426,AG037,Product Inquiry,Chat,High,Open,2026-09-01 04:00,,24,8,,False
+TKT0427,AG038,Account Access,Phone,High,Open,2026-09-01 04:00,,24,8,,False
+TKT0428,AG023,Refund Request,Phone,Medium,Open,2026-08-30 15:00,,48,45,,False
+TKT0429,AG035,Account Access,Email,Low,Open,2026-08-28 04:00,,72,104,,True
+TKT0430,AG031,Billing,Chat,Medium,Closed,2026-03-01 19:00,2026-03-03 05:00,48,34,34,False
+TKT0431,AG004,Billing,Email,High,Closed,2026-02-03 10:00,2026-02-03 21:00,24,11,11,False
+TKT0432,AG024,Billing,Chat,Medium,Open,2026-08-29 02:00,,48,82,,True
+TKT0433,AG009,Technical Support,Phone,Medium,Closed,2026-05-31 03:00,2026-06-01 00:00,48,21,21,False
+TKT0434,AG036,Refund Request,Chat,High,Closed,2026-05-05 20:00,2026-05-06 19:00,24,23,23,False
+TKT0435,AG009,Technical Support,Phone,Low,Closed,2026-02-14 12:00,2026-02-16 02:00,72,38,38,False
+TKT0436,AG012,Refund Request,Chat,Low,Closed,2026-05-27 12:00,2026-05-30 17:00,72,77,77,True
+TKT0437,AG007,Product Inquiry,Email,High,Open,2026-08-31 17:00,,24,19,,False
+TKT0438,AG046,Account Access,Chat,Low,Closed,2026-03-30 10:00,2026-03-30 22:00,72,12,12,False
+TKT0439,AG047,Billing,Email,Low,Closed,2026-06-27 02:00,2026-06-27 16:00,72,14,14,False
+TKT0440,AG023,Refund Request,Chat,Medium,Closed,2026-02-12 13:00,2026-02-13 14:00,48,25,25,False
+TKT0441,AG011,Product Inquiry,Email,Low,Closed,2026-08-10 18:00,2026-08-11 23:00,72,29,29,False
+TKT0442,AG005,Account Access,Email,High,Closed,2026-01-06 10:00,2026-01-06 14:00,24,4,4,False
+TKT0443,AG022,Refund Request,Phone,High,Closed,2026-01-20 17:00,2026-01-22 05:00,24,36,36,True
+TKT0444,AG011,Billing,Email,High,Closed,2026-04-21 20:00,2026-04-22 10:00,24,14,14,False
+TKT0445,AG047,Refund Request,Chat,Low,Open,2026-08-29 13:00,,72,71,,False
+TKT0446,AG032,Technical Support,Email,Medium,Closed,2026-01-25 01:00,2026-01-26 13:00,48,36,36,False
+TKT0447,AG013,Billing,Email,Medium,Closed,2026-03-17 21:00,2026-03-19 04:00,48,31,31,False
+TKT0448,AG026,Product Inquiry,Chat,Low,Closed,2026-01-21 15:00,2026-01-26 07:00,72,112,112,True
+TKT0449,AG025,Account Access,Email,High,Closed,2026-06-14 17:00,2026-06-15 05:00,24,12,12,False
+TKT0450,AG037,Billing,Email,Medium,Closed,2026-04-30 08:00,2026-05-01 02:00,48,18,18,False
+TKT0451,AG027,Refund Request,Email,High,Closed,2026-01-22 21:00,2026-01-23 15:00,24,18,18,False
+TKT0452,AG035,Product Inquiry,Phone,Medium,Open,2026-08-29 09:00,,48,75,,True
+TKT0453,AG033,Refund Request,Phone,High,Closed,2026-01-21 12:00,2026-01-22 17:00,24,29,29,True
+TKT0454,AG012,Technical Support,Email,High,Closed,2026-06-08 04:00,2026-06-08 19:00,24,15,15,False
+TKT0455,AG013,Technical Support,Phone,High,Closed,2026-04-19 02:00,2026-04-22 10:00,24,80,80,True
+TKT0456,AG006,Product Inquiry,Phone,Low,Open,2026-08-27 03:00,,72,129,,True
+TKT0457,AG045,Refund Request,Phone,Medium,Closed,2026-03-12 16:00,2026-03-12 17:00,48,1,1,False
+TKT0458,AG038,Billing,Email,Medium,Closed,2026-04-17 04:00,2026-04-18 18:00,48,38,38,False
+TKT0459,AG017,Product Inquiry,Phone,Medium,Closed,2026-03-15 17:00,2026-03-19 22:00,48,101,101,True
+TKT0460,AG040,Refund Request,Phone,Medium,Closed,2026-01-10 05:00,2026-01-10 15:00,48,10,10,False
+TKT0461,AG048,Product Inquiry,Chat,Medium,Closed,2026-08-16 10:00,2026-08-16 14:00,48,4,4,False
+TKT0462,AG045,Billing,Email,High,Closed,2026-07-29 09:00,2026-07-30 01:00,24,16,16,False
+TKT0463,AG018,Product Inquiry,Phone,Low,Open,2026-08-30 18:00,,72,42,,False
+TKT0464,AG024,Billing,Phone,Medium,Closed,2026-02-24 13:00,2026-02-25 23:00,48,34,34,False
+TKT0465,AG037,Billing,Email,High,Closed,2026-07-01 16:00,2026-07-02 09:00,24,17,17,False
+TKT0466,AG003,Product Inquiry,Email,Low,Open,2026-08-28 20:00,,72,88,,True
+TKT0467,AG026,Billing,Phone,High,Closed,2026-03-12 11:00,2026-03-16 04:00,24,89,89,True
+TKT0468,AG038,Refund Request,Chat,Low,Closed,2026-06-02 14:00,2026-06-05 03:00,72,61,61,False
+TKT0469,AG019,Billing,Chat,Low,Open,2026-09-01 00:00,,72,12,,False
+TKT0470,AG015,Technical Support,Phone,Low,Open,2026-08-28 22:00,,72,86,,True
+TKT0471,AG031,Technical Support,Phone,Low,Closed,2026-05-12 00:00,2026-05-15 02:00,72,74,74,True
+TKT0472,AG046,Account Access,Chat,Low,Closed,2026-02-27 08:00,2026-03-01 00:00,72,40,40,False
+TKT0473,AG030,Account Access,Phone,High,Open,2026-08-30 22:00,,24,38,,True
+TKT0474,AG024,Refund Request,Phone,Medium,Closed,2026-05-30 03:00,2026-05-31 22:00,48,43,43,False
+TKT0475,AG018,Account Access,Chat,Medium,Closed,2026-06-25 03:00,2026-06-26 01:00,48,22,22,False
+TKT0476,AG034,Technical Support,Email,Low,Closed,2026-08-17 20:00,2026-08-18 16:00,72,20,20,False
+TKT0477,AG009,Billing,Phone,High,Closed,2026-06-03 12:00,2026-06-04 10:00,24,22,22,False
+TKT0478,AG038,Refund Request,Email,Medium,Closed,2026-04-18 12:00,2026-04-18 15:00,48,3,3,False
+TKT0479,AG043,Account Access,Phone,Low,Closed,2026-06-25 17:00,2026-06-28 06:00,72,61,61,False
+TKT0480,AG031,Technical Support,Phone,Low,Closed,2026-06-18 17:00,2026-06-19 06:00,72,13,13,False
+TKT0481,AG042,Billing,Email,Low,Closed,2026-07-15 05:00,2026-07-20 00:00,72,115,115,True
+TKT0482,AG024,Account Access,Phone,Medium,Closed,2026-03-20 13:00,2026-03-24 08:00,48,91,91,True
+TKT0483,AG038,Refund Request,Phone,Low,Open,2026-08-27 19:00,,72,113,,True
+TKT0484,AG025,Refund Request,Chat,Low,Open,2026-08-27 16:00,,72,116,,True
+TKT0485,AG022,Product Inquiry,Phone,Medium,Open,2026-08-31 23:00,,48,13,,False
+TKT0486,AG012,Billing,Chat,High,Open,2026-08-31 13:00,,24,23,,False
+TKT0487,AG001,Product Inquiry,Chat,Low,Open,2026-09-01 04:00,,72,8,,False
+TKT0488,AG009,Refund Request,Chat,Low,Closed,2026-05-28 05:00,2026-05-28 17:00,72,12,12,False
+TKT0489,AG013,Account Access,Email,Medium,Closed,2026-05-03 12:00,2026-05-04 23:00,48,35,35,False
+TKT0490,AG041,Technical Support,Email,High,Closed,2026-05-16 06:00,2026-05-16 07:00,24,1,1,False
+TKT0491,AG020,Technical Support,Email,Medium,Closed,2026-02-03 03:00,2026-02-04 17:00,48,38,38,False
+TKT0492,AG034,Account Access,Chat,High,Closed,2026-03-16 14:00,2026-03-17 10:00,24,20,20,False
+TKT0493,AG023,Technical Support,Email,High,Open,2026-08-31 20:00,,24,16,,False
+TKT0494,AG015,Technical Support,Email,High,Open,2026-09-01 04:00,,24,8,,False
+TKT0495,AG003,Product Inquiry,Phone,Medium,Closed,2026-02-13 03:00,2026-02-14 21:00,48,42,42,False
+TKT0496,AG042,Billing,Email,Low,Closed,2026-01-13 19:00,2026-01-17 09:00,72,86,86,True
+TKT0497,AG045,Technical Support,Email,Medium,Closed,2026-04-08 03:00,2026-04-09 10:00,48,31,31,False
+TKT0498,AG034,Account Access,Phone,Medium,Closed,2026-03-19 13:00,2026-03-21 08:00,48,43,43,False
+TKT0499,AG008,Account Access,Email,Medium,Closed,2026-08-01 03:00,2026-08-02 19:00,48,40,40,False
+TKT0500,AG013,Account Access,Phone,High,Closed,2026-06-05 06:00,2026-06-09 01:00,24,91,91,True
